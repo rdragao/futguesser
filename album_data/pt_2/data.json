@@ -1,0 +1,77 @@
+{
+    "name": "Liga Portugal 2",
+    "teams": [
+        {
+            "name": "Académico de Viseu Futebol Clube",
+            "id": "pt_2_1"
+        },
+        {
+            "name": "Futebol Clube de Alverca",
+            "id": "pt_2_2"
+        },
+        {
+            "name": "Sport Lisboa e Benfica B",
+            "id": "pt_2_3"
+        },
+        {
+            "name": "Grupo Desportivo de Chaves",
+            "id": "pt_2_4"
+        },
+        {
+            "name": "Clube Desportivo Feirense",
+            "id": "pt_2_5"
+        },
+        {
+            "name": "Futebol Clube de Felgueiras",
+            "id": "pt_2_6"
+        },
+        {
+            "name": "Leixões Sport Club",
+            "id": "pt_2_7"
+        },
+        {
+            "name": "Clube Desportivo de Mafra",
+            "id": "pt_2_8"
+        },
+        {
+            "name": "Club Sport Marítimo",
+            "id": "pt_2_9"
+        },
+        {
+            "name": "União Desportiva Oliveirense",
+            "id": "pt_2_10"
+        },
+        {
+            "name": "Futebol Clube Paços de Ferreira",
+            "id": "pt_2_11"
+        },
+        {
+            "name": "Futebol Clube de Penafiel",
+            "id": "pt_2_12"
+        },
+        {
+            "name": "Portimonense Sporting Clube",
+            "id": "pt_2_13"
+        },
+        {
+            "name": "Futebol Clube do Porto B",
+            "id": "pt_2_14"
+        },
+        {
+            "name": "Clube Desportivo de Tondela",
+            "id": "pt_2_15"
+        },
+        {
+            "name": "Sport Clube União Torreense",
+            "id": "pt_2_16"
+        },
+        {
+            "name": "União Desportiva de Leiria",
+            "id": "pt_2_17"
+        },
+        {
+            "name": "Futebol Clube de Vizela",
+            "id": "pt_2_18"
+        }
+    ]
+}

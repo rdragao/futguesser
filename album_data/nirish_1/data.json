@@ -1,0 +1,53 @@
+{
+    "name": "NIFL Premiership",
+    "teams": [
+        {
+            "name": "Ballymena United Football Club",
+            "id": "nirish_1_1"
+        },
+        {
+            "name": "Carrick Rangers Football Club",
+            "id": "nirish_1_2"
+        },
+        {
+            "name": "Cliftonville Football & Athletic Club",
+            "id": "nirish_1_3"
+        },
+        {
+            "name": "Coleraine Football Club",
+            "id": "nirish_1_4"
+        },
+        {
+            "name": "Crusaders Football Club",
+            "id": "nirish_1_5"
+        },
+        {
+            "name": "Dungannon Swifts Football Club",
+            "id": "nirish_1_6"
+        },
+        {
+            "name": "Glenavon Football Club",
+            "id": "nirish_1_7"
+        },
+        {
+            "name": "Glentoran Football Club",
+            "id": "nirish_1_8"
+        },
+        {
+            "name": "Larne Football Club",
+            "id": "nirish_1_9"
+        },
+        {
+            "name": "Linfield Football Club",
+            "id": "nirish_1_10"
+        },
+        {
+            "name": "Loughgall Football Club",
+            "id": "nirish_1_11"
+        },
+        {
+            "name": "Portadown Football Club",
+            "id": "nirish_1_12"
+        }
+    ]
+}

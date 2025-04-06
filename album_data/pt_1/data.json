@@ -1,0 +1,77 @@
+{
+    "name": "Primeira Liga",
+    "teams": [
+        {
+            "name": "Futebol Clube de Arouca",
+            "id": "pt_1_1"
+        },
+        {
+            "name": "AVS Futebol SAD",
+            "id": "pt_1_2"
+        },
+        {
+            "name": "Sport Lisboa e Benfica",
+            "id": "pt_1_3"
+        },
+        {
+            "name": "Boavista Futebol Clube",
+            "id": "pt_1_4"
+        },
+        {
+            "name": "Sporting Clube de Braga",
+            "id": "pt_1_5"
+        },
+        {
+            "name": "Casa Pia Atlético Clube",
+            "id": "pt_1_6"
+        },
+        {
+            "name": "Grupo Desportivo Estoril Praia",
+            "id": "pt_1_7"
+        },
+        {
+            "name": "Club Football Estrela da Amadora SAD",
+            "id": "pt_1_8"
+        },
+        {
+            "name": "Futebol Clube de Famalicão",
+            "id": "pt_1_9"
+        },
+        {
+            "name": "Sporting Clube Farense",
+            "id": "pt_1_10"
+        },
+        {
+            "name": "Gil Vicente Futebol Clube",
+            "id": "pt_1_11"
+        },
+        {
+            "name": "Moreirense Futebol Clube",
+            "id": "pt_1_12"
+        },
+        {
+            "name": "Clube Desportivo Nacional",
+            "id": "pt_1_13"
+        },
+        {
+            "name": "Futebol Clube do Porto",
+            "id": "pt_1_14"
+        },
+        {
+            "name": "Rio Ave Futebol Clube",
+            "id": "pt_1_15"
+        },
+        {
+            "name": "Clube Desportivo Santa Clara",
+            "id": "pt_1_16"
+        },
+        {
+            "name": "Sporting Clube de Portugal",
+            "id": "pt_1_17"
+        },
+        {
+            "name": "Vitória Sport Clube",
+            "id": "pt_1_18"
+        }
+    ]
+}

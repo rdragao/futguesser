@@ -1,0 +1,17 @@
+{
+    "name": "Japan Football League",
+    "teams": [
+        {
+            "name": "Iwate Grulla Morioka",
+            "id": "jp_4_1"
+        },
+        {
+            "name": "YSCC Yokohama",
+            "id": "jp_4_2"
+        },
+        {
+            "name": "Asuka FC",
+            "id": "jp_4_3"
+        }
+    ]
+}

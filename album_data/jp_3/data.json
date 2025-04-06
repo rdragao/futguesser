@@ -1,0 +1,85 @@
+{
+    "name": "J.League 3",
+    "teams": [
+        {
+            "name": "Azul Claro Numazu",
+            "id": "jp_3_1"
+        },
+        {
+            "name": "FC Gifu",
+            "id": "jp_3_2"
+        },
+        {
+            "name": "FC Osaka",
+            "id": "jp_3_3"
+        },
+        {
+            "name": "FC Ryukyu",
+            "id": "jp_3_4"
+        },
+        {
+            "name": "Fukushima United",
+            "id": "jp_3_5"
+        },
+        {
+            "name": "Gainare Tottori",
+            "id": "jp_3_6"
+        },
+        {
+            "name": "Giravanz Kitakyushu",
+            "id": "jp_3_7"
+        },
+        {
+            "name": "Kagoshima United",
+            "id": "jp_3_8"
+        },
+        {
+            "name": "Kamatamare Sanuki",
+            "id": "jp_3_9"
+        },
+        {
+            "name": "Kochi United",
+            "id": "jp_3_10"
+        },
+        {
+            "name": "Matsumoto Yamaga",
+            "id": "jp_3_11"
+        },
+        {
+            "name": "Nagano Parceiro",
+            "id": "jp_3_12"
+        },
+        {
+            "name": "Nara Club",
+            "id": "jp_3_13"
+        },
+        {
+            "name": "SC Sagamihara",
+            "id": "jp_3_14"
+        },
+        {
+            "name": "Tegevajaro Miyazaki",
+            "id": "jp_3_15"
+        },
+        {
+            "name": "Thespa Gunma",
+            "id": "jp_3_16"
+        },
+        {
+            "name": "Tochigi City",
+            "id": "jp_3_17"
+        },
+        {
+            "name": "Tochigi SC",
+            "id": "jp_3_18"
+        },
+        {
+            "name": "Vanraure Hachinohe",
+            "id": "jp_3_19"
+        },
+        {
+            "name": "Zweigen Kanazawa",
+            "id": "jp_3_20"
+        }
+    ]
+}

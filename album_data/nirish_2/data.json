@@ -1,0 +1,53 @@
+{
+    "name": "NIFL Championship",
+    "teams": [
+        {
+            "name": "Annagh United Football Club",
+            "id": "nirish_2_1"
+        },
+        {
+            "name": "Ards Football Club",
+            "id": "nirish_2_2"
+        },
+        {
+            "name": "Armagh City Football Club",
+            "id": "nirish_2_3"
+        },
+        {
+            "name": "Ballinamallard United Football Club",
+            "id": "nirish_2_4"
+        },
+        {
+            "name": "Ballyclare Comrades Football Club",
+            "id": "nirish_2_5"
+        },
+        {
+            "name": "Bangor Football Club",
+            "id": "nirish_2_6"
+        },
+        {
+            "name": "Dundela Football Club",
+            "id": "nirish_2_7"
+        },
+        {
+            "name": "Harland & Wolff Welders Football & Social Club",
+            "id": "nirish_2_8"
+        },
+        {
+            "name": "Institute Football Club",
+            "id": "nirish_2_9"
+        },
+        {
+            "name": "Limavady United Football & Athletic Club",
+            "id": "nirish_2_10"
+        },
+        {
+            "name": "Newington Football Club",
+            "id": "nirish_2_11"
+        },
+        {
+            "name": "Newry City Athletic Football Club",
+            "id": "nirish_2_12"
+        }
+    ]
+}
