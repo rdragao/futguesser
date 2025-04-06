@@ -1,0 +1,79 @@
+/* layout.css */
+.container {
+  width: 300px;
+  height: 390px;
+  border: 4px solid #333;
+  border-radius: 15px;
+  position: relative;
+  background: linear-gradient(135deg, #37003C 0%, #2D0B4C 100%);
+  overflow: hidden;
+  box-shadow: 
+    inset 0 0 80px rgba(255,255,255,0.1),
+    0 15px 30px rgba(0,0,0,0.3);
+  perspective: 1000px;
+  transform-style: preserve-3d;
+}
+
+/* Controls */
+.controls {
+  position: fixed;
+  bottom: 10px;
+  left: 20%; /* More space for wider sidebars or better centering */
+  right: 45%; 
+  background: #ffffff; /* Neutral background for readability */
+  padding: 0.5rem; /* Use relative units for better scaling */
+  border-radius: 12px; /* Softer corners for a modern look */
+  box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.15); /* Slightly stronger shadow for depth */
+  text-align: center;
+  z-index: 9999; /* Simplified z-index, high enough for controls */
+  transition: transform 0.2s ease, box-shadow 0.2s ease; /* Smooth transitions */
+  user-select: none; /* Prevents text selection */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .album {
+    width: 100%;
+    height: 60vh;
+    top: auto;
+    bottom: 0;
+    transform: translateY(100%);
+  }
+}
+
+/* Ensure nested elements also inherit this behavior */
+.controls * {
+  user-select: none;
+}
+
+
+
+/* Hover/Focus State */
+.controls:hover {
+  box-shadow: 0 -6px 18px rgba(0, 0, 0, 0.25); /* Enhance shadow on hover */
+  transform: translateY(-5px); /* Subtle hover effect for interactivity */
+}
+
+.instructions {
+  text-align: center;
+  margin: 10px 0 0; /* Adjusted for spacing */
+  color: #37003C; /* Deep purple */
+  opacity: 0; /* Hidden by default */
+  transition: opacity 0.3s ease; /* Smooth fade-in effect */
+  pointer-events: none; /* Prevent interaction when invisible */
+}
+
+.controls:hover .instructions {
+  opacity: 1; /* Visible on hover */
+  pointer-events: auto; /* Allow interaction when visible */
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .controls {
+    left: 10%; /* Adjust width for smaller screens */
+    right: 10%;
+    bottom: 15px; /* Reduce bottom spacing */
+    padding: 0.75rem; /* Adjust padding for compactness */
+  }
+}

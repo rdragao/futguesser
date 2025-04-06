@@ -1,0 +1,178 @@
+/* components/album.css */
+.album {
+  width: 550px;
+  height: 100vh;
+  position: fixed;
+  right: 0;
+  top: 0;
+  background: #fff;
+  border-left: 8px solid #3D195B;
+  padding: 20px;
+  overflow-y: auto;
+  transform: translateX(100%);
+  transition: transform 0.3s ease;
+  z-index: 1000;
+}
+
+.album.visible {
+  transform: translateX(0);
+}
+
+.album-title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #37003C;
+  border-bottom: 3px solid #3D195B;
+  padding-bottom: 10px;
+}
+
+.sticker-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px 30px;
+  margin-bottom: 5px;
+}
+
+.album-slot {
+  width: 100%;
+  aspect-ratio: 1;
+  border: 2px dashed #ccc;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f9f9f9;
+  overflow: hidden;
+  padding: 5px;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  cursor: pointer;
+  font-size: 1.5em;
+  color: #666;
+}
+
+.album-slot.filled {
+  border: 2px solid #37003C;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(61, 25, 91, 0.2);
+}
+
+/* Front face */
+.album-slot img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  backface-visibility: hidden;
+  transform: rotateY(0deg);
+  transition: transform 0.6s;
+}
+/* Back face */
+.filled::after {
+  content: attr(alt);
+  position: absolute;
+  align-items: center;
+  background: #3D195B;
+  text-align: center;
+  padding: 10px;
+  transform: rotateY(180deg);
+  backface-visibility: hidden;
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+
+/* Hover effect */
+.album-slot.filled:hover .sticker-content {
+  transform: rotateY(180deg);
+}
+
+.sticker-content {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.6s;
+}
+
+.sticker-alt {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #3D195B;
+  color: white;
+  border-radius: 8px;
+  text-align: center;
+  text-justify: center;
+  padding: 20px;
+  transform: rotateY(180deg);
+  backface-visibility: hidden;
+  font-size: clamp(0.5em, 0.8vw, 1.1em);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+/* components/album.css */
+#toggleAlbum {
+  background: #3D195B;
+}
+
+.progress {
+  color: #37003C;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+/* Stats and Duplicates */
+.stats-container {
+  display: flex;
+  justify-content: left;
+  gap: 100px;
+  background: #f8f8f8;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 20px 0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.stat {
+  
+  background: #fff;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 14px;
+  margin: 5px 0;
+  border-left: 4px solid #3D195B;
+}
+
+.stat:hover {
+  transform: translateX(-4px); /* Slight hover effect */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhances hover state */
+}
+
+.duplicates-container {
+  background: #f8f8f8;
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.duplicates-title {
+  font-size: 18px;
+  color: #37003C;
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #3D195B;
+}
+
+.duplicates-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin-bottom: 10px;
+}

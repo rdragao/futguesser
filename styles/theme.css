@@ -1,0 +1,9 @@
+/* theme.css */
+:root {
+  --primary-color: #37003C;
+  --secondary-color: #3D195B;
+  --text-color: #000;
+  --background-color: #f0f0f0;
+  --border-radius: 15px;
+  --transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
+}

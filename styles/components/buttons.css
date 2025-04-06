@@ -1,0 +1,448 @@
+/* Consolidated .album-selector rules and structural improvements */
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  padding: 1rem 2rem;
+  flex-wrap: wrap;
+}
+
+.album-selector {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: var(--border-radius);
+  background: linear-gradient(90deg, var(--primary-color, #4a5568), var(--secondary-color, #2d3748));
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Tier adjustments */
+.league-button[data-league*="_1"] { --tier-adjustment: 0%; }
+.league-button[data-league*="_2"] { --tier-adjustment: 5%; }
+.league-button[data-league*="_3"] { --tier-adjustment: 10%; }
+.league-button[data-league*="_4"] { --tier-adjustment: 15%; }
+.league-button[data-league*="_5"] { --tier-adjustment: 20%; }
+.league-button[data-league*="_6"] { --tier-adjustment: 25%; }
+.league-button[data-league*="_7"] { --tier-adjustment: 30%; }
+.league-button[data-league*="_8"] { --tier-adjustment: 35%; }
+.league-button[data-league*="_9"] { --tier-adjustment: 40%; }
+.league-button[data-league*="_10"] { --tier-adjustment: 45%; }
+/* ... through tier 10 ... */
+
+/* Neon effect with fallbacks */
+.league-button[data-league] {
+  --final-lightness: calc(var(--league-lightness, 50%) + var(--tier-adjustment, 0%));
+  --neon-color: hsl(
+    var(--league-hue, 210),
+    var(--league-saturation, 100%),
+    var(--final-lightness)
+  );
+  
+  color: var(--neon-color);
+  text-shadow: 0 0 5px var(--neon-color);
+  box-shadow: 0 0 15px var(--neon-color);
+}
+
+/* Improved hover states */
+.league-button:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.1);
+}
+
+.league-button:hover::after,
+.league-button.active::after {
+  width: 80%; /* Partial-width underline for a playful vibe */
+}
+/* Make sure buttons maintain hover/active states */
+
+/* Hover and active states */
+.league-button:hover {
+  background-color: #FFFAF0; /* Light background glow */
+  transform: scale(1.1); /* Slight zoom effect */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhanced shadow for depth */
+}
+
+.league-button:active {
+  transform: translateY(1px);
+  filter: brightness(0.9);
+}
+
+/* Unified button styles */
+.league-button {
+  position: relative;
+  padding: 15px 25px;
+  border: 3px solid #000;
+  border-radius: 8px;
+  background: linear-gradient(145deg, #ffffff, #e6e6e6);
+  transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  margin: 0;
+  cursor: pointer;
+  font-size: 10px;
+  font-family: 'Montserrat ','Press Start 2P', 'Comic Sans MS', cursive, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  overflow: hidden;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: left;
+  white-space: normal;
+  word-wrap: break-word;
+  margin-bottom: 8px;
+}
+
+/* Scrollbar and layout improvements */
+.league-buttons-container {
+  width: 300px;
+  height: 90vh;
+  padding: 20px;
+  background: rgba(48, 16, 56, 0.85);
+  overflow-y: auto;
+}
+
+.game-container {
+  flex-grow: 1;
+  margin-left: 420px;
+  padding: 20px;
+}
+
+/* Arcade light effect */
+.league-button::after {
+  content: '';
+  position: absolute;
+  width: 50px;
+  height: 100%;
+  top: 0;
+  left: -100px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.8),
+    transparent
+  );
+  transform: skewX(-25deg);
+  transition: 0.75s;
+}
+/* Underline effect for hover and active states */
+.league-button::after {
+  width: 0;
+  height: 5px;
+  bottom: -4px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: currentColor; /* Matches text color */
+  border-radius: 10px; /* Smooth line */
+  transition: width 0.3s ease;
+}
+
+
+/*old components/buttons.css */
+/* League color system with default secondary */
+:root {
+  /* Default fallback colors */
+  --primary-color: #33003667;
+  --secondary-color: #cdd3dd1e;
+
+  /* Brazil leagues - red gradient */
+  --br-base-hue: 142.65;
+  --br-base-saturation: 100%;
+  --br-base-lightness: 29.61%;
+
+  /* English leagues - red gradient */
+  --en-base-hue: 353.97;
+  --en-base-saturation: 84.75%;
+  --en-base-lightness: 43.73%;
+
+  /* Scottish leagues - blue gradient */
+  --scot-base-hue: 209.35;
+  --scot-base-saturation: 100%;
+  --scot-base-lightness: 36.08%;
+
+  /* Welsh leagues - green gradient */
+  --welsh-base-hue: 141.69;
+  --welsh-base-saturation: 100%;
+  --welsh-base-lightness: 34.71%;
+
+  /* Gibraltar leagues - red gradient */
+  --gi-base-hue: 356.7;
+  --gi-base-saturation: 100%;
+  --gi-base-lightness: 42.75%;
+
+  /* Cyprus leagues - blue gradient */
+  --cy-base-hue: 33.8;
+  --cy-base-saturation: 100%;
+  --cy-base-lightness: 41.76%;
+
+  /* Greece leagues - blue gradient */
+  --gr-base-hue: 210;
+  --gr-base-saturation: 86.17%;
+  --gr-base-lightness: 36.86%;
+
+  /* Northern Ireland leagues - red gradient */
+  --nirish-base-hue: 358.85;
+  --nirish-base-saturation: 77.34%;
+  --nirish-base-lightness: 39.8%;
+
+  /* Iceland leagues - purple gradient */
+  --is-base-hue: 208.83;
+  --is-base-saturation: 97.47%;
+  --is-base-lightness: 30.98%;
+  
+  /* Italy leagues - green gradient */
+  --it-base-hue: 149.57;
+  --it-base-saturation: 100%;
+  --it-base-lightness: 27.45%;
+
+  /* Spanish leagues - yellow/gold gradient */
+  --es-base-hue: 47.55;
+  --es-base-saturation: 70%;
+  --es-base-lightness: 47.25%;
+
+  /* German leagues - black gradient */
+  --de-base-hue: 0;
+  --de-base-saturation: 0%;
+  --de-base-lightness: 0%;
+
+  /* French leagues - magenta gradient */
+  --fr-base-hue: 240;
+  --fr-base-saturation: 100%;
+  --fr-base-lightness: 28.43%;
+
+  /* Japanese leagues - purple gradient */
+  --jp-base-hue: 346;
+  --jp-base-saturation: 100%;
+  --jp-base-lightness: 35.29%;
+
+  /* Portugal leagues - purple gradient */
+  --pt-base-hue: 150.59;
+  --pt-base-saturation: 92.73%;
+  --pt-base-lightness: 21.57%;
+
+  /* Uruguay leagues - celeste gradient */
+  --uy-base-hue: 231.24;
+  --uy-base-saturation: 100%;
+  --uy-base-lightness: 26.86%;
+}
+
+/* Generate styles for each league prefix */
+[data-league^="br_"] {
+  --league-hue: var(--br-base-hue);
+  --league-saturation: var(--br-base-saturation);
+  --league-lightness: var(--br-base-lightness);
+}
+
+[data-league^="en_"] {
+  --league-hue: var(--en-base-hue);
+  --league-saturation: var(--en-base-saturation);
+  --league-lightness: var(--en-base-lightness);
+}
+
+[data-league^="scot_"] {
+  --league-hue: var(--scot-base-hue);
+  --league-saturation: var(--scot-base-saturation);
+  --league-lightness: var(--scot-base-lightness);
+}
+
+[data-league^="welsh_"] {
+  --league-hue: var(--welsh-base-hue);
+  --league-saturation: var(--welsh-base-saturation);
+  --league-lightness: var(--welsh-base-lightness);
+}
+
+[data-league^="gi_"] {
+  --league-hue: var(--gi-base-hue);
+  --league-saturation: var(--gi-base-saturation);
+  --league-lightness: var(--gi-base-lightness);
+}
+
+[data-league^="gr_"] {
+  --league-hue: var(--gr-base-hue);
+  --league-saturation: var(--gr-base-saturation);
+  --league-lightness: var(--gr-base-lightness);
+}
+
+[data-league^="nirish_"] {
+  --league-hue: var(--nirish-base-hue);
+  --league-saturation: var(--nirish-base-saturation);
+  --league-lightness: var(--nirish-base-lightness);
+}
+
+[data-league^="is_"] {
+  --league-hue: var(--is-base-hue);
+  --league-saturation: var(--is-base-saturation);
+  --league-lightness: var(--is-base-lightness);
+}
+
+[data-league^="it_"] {
+  --league-hue: var(--it-base-hue);
+  --league-saturation: var(--it-base-saturation);
+  --league-lightness: var(--it-base-lightness);
+}
+
+[data-league^="es_"] {
+  --league-hue: var(--es-base-hue);
+  --league-saturation: var(--es-base-saturation);
+  --league-lightness: var(--es-base-lightness);
+}
+
+[data-league^="de_"] {
+  --league-hue: var(--de-base-hue);
+  --league-saturation: var(--de-base-saturation);
+  --league-lightness: var(--de-base-lightness);
+}
+
+[data-league^="fr_"] {
+  --league-hue: var(--fr-base-hue);
+  --league-saturation: var(--fr-base-saturation);
+  --league-lightness: var(--fr-base-lightness);
+}
+
+[data-league^="jp_"] {
+  --league-hue: var(--jp-base-hue);
+  --league-saturation: var(--jp-base-saturation);
+  --league-lightness: var(--jp-base-lightness);
+}
+
+[data-league^="pt_"] {
+  --league-hue: var(--pt-base-hue);
+  --league-saturation: var(--pt-base-saturation);
+  --league-lightness: var(--pt-base-lightness);
+}
+
+[data-league^="uy_"] {
+  --league-hue: var(--uy-base-hue);
+  --league-saturation: var(--uy-base-saturation);
+  --league-lightness: var(--uy-base-lightness);
+}
+
+[data-league^="cy_"] {
+  --league-hue: var(--cy-base-hue);
+  --league-saturation: var(--cy-base-saturation);
+  --league-lightness: var(--cy-base-lightness);
+}
+
+/* Arcade screen flicker effect */
+@keyframes flicker {
+  0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {
+    opacity: 1;
+  }
+  20%, 21.999%, 63%, 63.999%, 65%, 69.999% {
+    opacity: 0.8;
+  }
+}
+
+/* Selected state */
+.league-button.active {
+  animation: pulse 1.5s infinite;
+  font-weight: bold;
+  background-color: #FFF0F5; /* Soft pastel highlight */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Stronger shadow for focus */
+}
+
+/* Main game layout container */
+.game-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  background: #fff; /* or your desired background */
+}
+
+/* Scrollbar styling */
+.league-buttons-container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.league-buttons-container::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+}
+
+.league-buttons-container::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 4px;
+}
+
+.game-layout {
+  display: flex;
+  background: #fff;
+}
+
+.league-buttons-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.1) 50%,
+    rgba(0, 0, 0, 0.1) 50%
+  );
+  background-size: 100% 4px;
+  pointer-events: none;
+  opacity: 0.15;
+}
+
+/* Preserve your original machine element styles */
+.machine-top, .machine-glass, .machine-frame {
+  position: absolute;
+  /* Keep your original positioning */
+}
+/* Keep your original claw styles */
+.claw {
+  position: absolute;
+  /* Keep your original positioning */
+}
+/* Maintain album visibility toggle */
+.album.hidden {
+  display: none;
+}
+
+.button {
+  display: inline-flex;
+  height: 10px;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(145deg, #6e3fd7, #3d195b); /* Vivid gradient for game-like feel */
+  color: #ffffff;
+  font-size: 1.125rem; /* Larger font for better visibility */
+  font-weight: 600;
+  text-transform: uppercase; /* Bold and impactful text */
+  padding: 0.75rem 1.5rem; /* Comfortable click area */
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15); /* Creates a "floating" effect */
+}
+
+.button:hover {
+  background: linear-gradient(145deg, #3d195b, #6e3fd7); /* Reverse gradient on hover */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+}
+
+.button:active {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Softer shadow when clicked */
+}
+
+.league-controls h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+}
+
+.search-filter {
+  margin-bottom: 1rem;
+}
+
+.search-filter input {
+  width: 94%;
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}

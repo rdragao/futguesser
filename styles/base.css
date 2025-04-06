@@ -1,0 +1,98 @@
+/* base.css */
+body {
+  background: linear-gradient(to bottom, #76b852, #8dc26f); /* Green gradient */
+  background-image: 
+    url('football-icon.png'), /* Football icons */
+    repeating-linear-gradient(white, white 1px, transparent 1px, transparent 20px), /* Grid lines */
+    repeating-linear-gradient(90deg, white, white 1px, transparent 1px, transparent 20px); /* Grid lines */
+  background-size: 
+    50px 50px, /* Size of football icons */
+    100% 100%, /* Vertical grid */
+    100% 100%; /* Horizontal grid */
+  background-position: 
+    center, /* Center icons */
+    0 0, /* Start grid at top-left */
+    0 0; /* Start grid at top-left */
+  background-repeat: 
+    no-repeat, /* No repeat for football icons */
+    repeat, /* Repeat grid lines */
+    repeat; /* Repeat grid lines */
+}
+
+.main-game-area {
+  border: 5px solid #ccc;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+  margin: auto;
+  padding: 20px;
+  background-color: #fff;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  min-height: 10vh;
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+
+.game-area {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+/* Improved glass effect with realistic reflections */
+.machine-glass {
+  position: absolute;
+  inset: 0;
+  background: 
+    linear-gradient(135deg, 
+      rgba(255,255,255,0.2) 0%,
+      rgba(255,255,255,0.1) 25%,
+      transparent 50%,
+      rgba(255,255,255,0.05) 75%,
+      rgba(255,255,255,0.1) 100%);
+  pointer-events: none;
+  z-index: 50;
+}
+
+.machine-glass::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: 
+    repeating-linear-gradient(
+      -45deg,
+      transparent,
+      transparent 10px,
+      rgba(255,255,255,0.03) 10px,
+      rgba(255,255,255,0.03) 20px
+    );
+}
+
+/* Enhanced machine top with details */
+.machine-top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background: linear-gradient(to bottom, #3D195B, #2D0B4C);
+  border-bottom: 4px solid #2D0B4C;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.machine-top::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  height: 20px;
+  background: rgba(255,255,255,0.1);
+  border-radius: 10px;
+}

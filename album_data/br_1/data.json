@@ -1,0 +1,85 @@
+{
+    "name": "Série A",
+    "teams": [
+        {
+            "name": "Clube Atlético Mineiro",
+            "id": "br_1_1"
+        },
+        {
+            "name": "Esporte Clube Bahia",
+            "id": "br_1_2"
+        },
+        {
+            "name": "Botafogo de Futebol e Regatas",
+            "id": "br_1_3"
+        },
+        {
+            "name": "Ceará Sporting Club",
+            "id": "br_1_4"
+        },
+        {
+            "name": "Sport Club Corinthians Paulista",
+            "id": "br_1_5"
+        },
+        {
+            "name": "Cruzeiro Esporte Clube",
+            "id": "br_1_6"
+        },
+        {
+            "name": "Clube de Regatas do Flamengo",
+            "id": "br_1_7"
+        },
+        {
+            "name": "Fluminense Football Club",
+            "id": "br_1_8"
+        },
+        {
+            "name": "Fortaleza Esporte Clube",
+            "id": "br_1_9"
+        },
+        {
+            "name": "Grêmio Foot-Ball Porto Alegrense",
+            "id": "br_1_10"
+        },
+        {
+            "name": "Sport Club Internacional",
+            "id": "br_1_11"
+        },
+        {
+            "name": "Esporte Clube Juventude",
+            "id": "br_1_12"
+        },
+        {
+            "name": "Mirassol Futebol Clube",
+            "id": "br_1_13"
+        },
+        {
+            "name": "Sociedade Esportiva Palmeiras",
+            "id": "br_1_14"
+        },
+        {
+            "name": "Red Bull Bragantino",
+            "id": "br_1_15"
+        },
+        {
+            "name": "Santos Futebol Clube",
+            "id": "br_1_16"
+        },
+        {
+            "name": "São Paulo Futebol Clube",
+            "id": "br_1_17"
+        },
+        {
+            "name": "Sport Club do Recife",
+            "id": "br_1_18"
+        },
+        {
+            "name": "Club de Regatas Vasco da Gama",
+            "id": "br_1_19"
+        },
+        {
+            "name": "Esporte Clube Vitória",
+            "id": "br_1_20"
+        }
+    ]
+}

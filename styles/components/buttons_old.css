@@ -1,0 +1,289 @@
+/* components/buttons.css */
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.album-selector {
+  margin-bottom: 20px;
+  gap: 15px;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  border-radius: var(--border-radius);
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.album-selector div {
+  padding: 15px 25px;
+  background-color: var(--secondary-color);
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid var(--primary-color);
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s var(--transition-timing), background-color 0.3s var(--transition-timing), box-shadow 0.3s var(--transition-timing);
+  cursor: pointer;
+}
+
+.album-selector div:hover {
+  transform: translateY(-5px) scale(1.05);
+  background-color: #ff9800;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+.album-selector div:active {
+  transform: translateY(0) scale(1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+body {
+  background-color: var(--background-color);
+  font-family: Arial, sans-serif;
+  color: var(--text-color);
+}
+
+
+.league-button {
+  position: relative;
+  padding: 15px 25px;
+  margin: 4px;
+  border: 3px solid #000;
+  cursor: pointer;
+  background: linear-gradient(145deg, #ffffff 0%, #e6e6e6 100%);
+  border-radius: 15px;
+  font-size: 18px;
+  font-family: 'Press Start 2P', 'Comic Sans MS', cursive, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  overflow: hidden;
+}
+
+/* Metallic inner border effect */
+.league-button::before {
+  content: '';
+  position: absolute;
+  inset: 3px;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 12px;
+  pointer-events: none;
+}
+
+/* Arcade light effect */
+.league-button::after {
+  content: '';
+  position: absolute;
+  width: 50px;
+  height: 100%;
+  top: 0;
+  left: -100px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.8),
+    transparent
+  );
+  transform: skewX(-25deg);
+  transition: 0.75s;
+}
+
+/* English leagues - neon effects */
+.league-button[data-league^="en_1"] {
+  color: #FF003C;
+  text-shadow: 0 0 5px #FF003C, 0 0 10px #FF003C;
+  box-shadow: 0 0 5px #FF003C, inset 0 0 5px #FF003C;
+}
+
+.league-button[data-league^="en_2"] {
+  color: #FF3B3B;
+  text-shadow: 0 0 5px #FF3B3B, 0 0 10px #FF3B3B;
+  box-shadow: 0 0 5px #FF3B3B, inset 0 0 5px #FF3B3B;
+}
+
+.league-button[data-league^="en_3"] {
+  color: #FF5252;
+  text-shadow: 0 0 5px #FF5252, 0 0 10px #FF5252;
+  box-shadow: 0 0 5px #FF5252, inset 0 0 5px #FF5252;
+}
+
+/* Scottish leagues - neon blue effects */
+.league-button[data-league^="scot_1"] {
+  color: #00BFFF;
+  text-shadow: 0 0 5px #00BFFF, 0 0 10px #00BFFF;
+  box-shadow: 0 0 5px #00BFFF, inset 0 0 5px #00BFFF;
+}
+
+.league-button[data-league^="scot_2"] {
+  color: #1E90FF;
+  text-shadow: 0 0 5px #1E90FF, 0 0 10px #1E90FF;
+  box-shadow: 0 0 5px #1E90FF, inset 0 0 5px #1E90FF;
+}
+
+/* Major leagues with unique neon colors */
+.league-button[data-league="es_1"] {
+  color: #FFD700;
+  text-shadow: 0 0 5px #FFD700, 0 0 10px #FFD700;
+  box-shadow: 0 0 5px #FFD700, inset 0 0 5px #FFD700;
+}
+
+.league-button[data-league="de_1"] {
+  color: #00FF00;
+  text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00;
+  box-shadow: 0 0 5px #00FF00, inset 0 0 5px #00FF00;
+}
+
+.league-button[data-league="fr_1"] {
+  color: #FF00FF;
+  text-shadow: 0 0 5px #FF00FF, 0 0 10px #FF00FF;
+  box-shadow: 0 0 5px #FF00FF, inset 0 0 5px #FF00FF;
+}
+
+/* Hover effects */
+.league-button:hover {
+  transform: translateY(-2px) scale(1.05);
+  filter: brightness(1.2);
+}
+
+.league-button:hover::after {
+  left: 150%;
+}
+
+/* Click effect */
+.league-button:active {
+  transform: translateY(2px) scale(0.95);
+  filter: brightness(0.9);
+}
+
+/* Selected state */
+.league-button.active {
+  animation: pulse 1.5s infinite;
+  font-weight: bold;
+}
+
+/* Pulsing animation for active buttons */
+@keyframes pulse {
+  0% {
+    filter: brightness(1);
+  }
+  50% {
+    filter: brightness(1.3);
+  }
+  100% {
+    filter: brightness(1);
+  }
+}
+
+/* Arcade screen flicker effect */
+@keyframes flicker {
+  0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {
+    opacity: 1;
+  }
+  20%, 21.999%, 63%, 63.999%, 65%, 69.999% {
+    opacity: 0.8;
+  }
+}
+
+/* Optional CRT screen effect for button container */
+.league-buttons-container {
+  position: relative;
+  padding: 20px;
+  background: #000;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.league-buttons-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.1) 50%,
+    rgba(0, 0, 0, 0.1) 50%
+  );
+  background-size: 100% 4px;
+  pointer-events: none;
+  opacity: 0.15;
+}
+
+/* Base styles for all claw machine buttons */
+.league-button {
+  position: relative;
+  padding: 10px 20px;
+  margin: 2px;
+  border: none;
+  cursor: pointer;
+  background-color: #ffffff; /* Neutral backdrop for colorful text */
+  border-radius: 12px; /* Rounded edges for a playful look */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for a 3D effect */
+  font-size: 16px;
+  font-family: 'Comic Sans MS', cursive, sans-serif; /* Fun font style */
+  transition: transform 0.2s ease, background-color 0.3s ease;
+}
+
+/* English leagues - vibrant shades of red */
+.league-button[data-league^="en_1"] { color: #FF3B3B; } /* Premier League */
+.league-button[data-league^="en_2"] { color: #FF5252; }
+.league-button[data-league^="en_3"] { color: #FF6B6B; }
+.league-button[data-league^="en_4"] { color: #FF7F7F; }
+.league-button[data-league^="en_5"] { color: #FFA0A0; }
+.league-button[data-league^="en_6"] { color: #FFBABA; }
+.league-button[data-league^="en_7"] { color: #FFDCDC; } /* Lower divisions */
+
+/* Scottish leagues - cheerful shades of blue */
+.league-button[data-league^="scot_1"] { color: #1E88E5; } /* Scottish Premiership */
+.league-button[data-league^="scot_2"] { color: #42A5F5; }
+.league-button[data-league^="scot_3"] { color: #64B5F6; }
+.league-button[data-league^="scot_4"] { color: #90CAF9; }
+
+/* Other major leagues */
+.league-button[data-league="jp_1"] { color: #FFC107; } /* Spanish La Liga - golden yellow */
+.league-button[data-league="jp_2"] { color: #66BB6A; } /* Bundesliga - bright green */
+.league-button[data-league="jp_3"] { color: #AB47BC; }  /* Ligue 1 - vibrant purple */
+*/
+
+/* Hover and active states */
+.league-button:hover {
+  background-color: #FFFAF0; /* Light background glow */
+  transform: scale(1.1); /* Slight zoom effect */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhanced shadow for depth */
+}
+
+/* Underline effect for hover and active states */
+.league-button::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 4px;
+  bottom: -4px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: currentColor; /* Matches text color */
+  border-radius: 2px; /* Smooth line */
+  transition: width 0.3s ease;
+}
+
+.league-button:hover::after,
+.league-button.active::after {
+  width: 80%; /* Partial-width underline for a playful vibe */
+}
+
+/* Active state for selected buttons */
+.league-button.active {
+  font-weight: bold;
+  background-color: #FFF0F5; /* Soft pastel highlight */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Stronger shadow for focus */
+}
+
+.instructions {
+  text-align: center;
+  margin: 10px;
+  color: #37003C;
+}

@@ -1,0 +1,75 @@
+
+/* Pulsing animation for focus state */
+@keyframes selectPulse {
+  0% { 
+    box-shadow: 0 0 5px var(--primary-color), 
+                inset 0 0 5px var(--primary-color); 
+  }
+  50% { 
+    box-shadow: 0 0 15px var(--primary-color), 
+                inset 0 0 10px var(--primary-color); 
+  }
+  100% { 
+    box-shadow: 0 0 5px var(--primary-color), 
+                inset 0 0 5px var(--primary-color); 
+  }
+}
+
+
+.league-select:focus {
+  animation: selectPulse 1.5s infinite;
+}
+
+/* Pulsing animation for active buttons */
+@keyframes pulse {
+  0% {
+    filter: brightness(1);
+  }
+  50% {
+    filter: brightness(1.3);
+  }
+  100% {
+    filter: brightness(1);
+  }
+}
+
+/* Arcade screen flicker effect */
+@keyframes flicker {
+  0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {
+    opacity: 1;
+  }
+  20%, 21.999%, 63%, 63.999%, 65%, 69.999% {
+    opacity: 0.8;
+  }
+}
+
+@keyframes openBall {
+  0% { 
+    transform: scale(1) rotate(0deg);
+    filter: brightness(1) blur(0);
+  }
+  50% { 
+    transform: scale(1.8) rotate(180deg);
+    filter: brightness(2) blur(4px);
+  }
+  100% { 
+    transform: scale(0) rotate(360deg);
+    filter: brightness(3) blur(8px);
+    opacity: 0;
+  }
+}
+
+/* Lighting effects */
+@keyframes ambientLight {
+  0%, 100% { filter: brightness(1); }
+  50% { filter: brightness(1.1); }
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}

@@ -1,0 +1,76 @@
+/* components/claw.css */
+.claw {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 100;
+  filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
+}
+
+.claw-rope {
+  position: absolute;
+  top: -50px;
+  left: 50%;
+  width: 6px;
+  height: 50px;
+  background: linear-gradient(90deg, 
+    rgba(102,102,102,0.8),
+    #888,
+    rgba(102,102,102,0.8));
+  transform: translateX(-50%);
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.claw-head {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.3s ease;
+}
+
+.claw-arm {
+  position: absolute;
+  width: 18px;
+  height: 35px;
+  background: linear-gradient(90deg, #777, #999, #777);
+  border-radius: 6px;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: -1px 2px 4px rgba(0,0,0,0.2);
+}
+
+.claw-arm.left {
+  left: 2px;
+  transform-origin: top right;
+  transform: rotate(30deg) translateZ(2px);
+}
+
+.claw-arm.right {
+  right: 2px;
+  transform-origin: top left;
+  transform: rotate(-30deg) translateZ(2px);
+}
+
+.claw-arm.center {
+  left: 50%;
+  transform: translateX(-50%);
+  height: 25px;
+  width: 25px;
+  border-radius: 50% 50% 30% 30%;
+  background: linear-gradient(to bottom, #999, #777);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* Enhanced grabbing animation */
+.claw.grabbing .claw-arm.left {
+  transform: rotate(0deg) translateZ(2px);
+}
+
+.claw.grabbing .claw-arm.right {
+  transform: rotate(0deg) translateZ(2px);
+}
+
