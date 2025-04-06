@@ -693,7 +693,7 @@ const leagues = {
   },
   'pt_1': {
     name: "Primeira Liga",
-    country: 'Ora pois',
+    country: 'Portugal',
     teams: [
       { name: "Futebol Clube de Arouca", id: "pt_1_1", logo: "https://upload.wikimedia.org/wikipedia/en/b/b4/FC_Arouca.png" },
       { name: "AVS Futebol SAD", id: "pt_1_2", logo: "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/AVS_Futebol_SAD_logo.png/150px-AVS_Futebol_SAD_logo.png" },
@@ -717,7 +717,7 @@ const leagues = {
   },
   'pt_2': {
     name: "Liga Portugal 2",
-    country: 'Ora pois',
+    country: 'Portugal',
     teams: [
       { name: "Académico de Viseu Futebol Clube", id: "pt_2_1", logo: "https://upload.wikimedia.org/wikipedia/commons/d/dd/AVFC.png" },
       { name: "Futebol Clube de Alverca", id: "pt_2_2", logo: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/F.C._Alverca_logo.svg/180px-F.C._Alverca_logo.svg.png" },
@@ -741,7 +741,7 @@ const leagues = {
   },
   'pt_3': {
     name: "Liga 3",
-    country: 'Ora pois',
+    country: 'Portugal',
     teams: [
       { name: "Sociedade União 1°Dezembro", id: "pt_3_1", logo: "https://upload.wikimedia.org/wikipedia/en/a/a4/1_de_Dezembro.png" },
       { name: "Associação Académicade Coimbra – Organismo Autónomo de Futebol", id: "pt_3_2", logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Emblema_da_Acad%C3%A9mica.png/220px-Emblema_da_Acad%C3%A9mica.png" },
@@ -767,7 +767,7 @@ const leagues = {
   },
   'pt_4_a': {
     name: "Campeonato de Portugal - Grupo A",
-    country: 'Ora pois',
+    country: 'Portugal',
     teams: [
       { name: "Clube Atlético dos Arcos", id: "pt_4_1", logo: "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Clube_atlectico_valdevez.png/130px-Clube_atlectico_valdevez.png" },
       { name: "Grupo Desportivo de Bragança", id: "pt_4_2", logo: "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Grupo_Desportivo_de_Bragan%C3%A7a.png/200px-Grupo_Desportivo_de_Bragan%C3%A7a.png" },
@@ -787,7 +787,7 @@ const leagues = {
   },
   'pt_4_b': {
     name: "Campeonato de Portugal - Grupo B",
-    country: 'Ora pois',
+    country: 'Portugal',
     teams: [
       { name: "Futebol Clube de Alpendorada", id: "pt_4_15", logo: "https://upload.wikimedia.org/wikipedia/en/6/6c/Futebol_Clube_Alpendorada.png" },
       { name: "Sport Clube Beira-Mar", id: "pt_4_16", logo: "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Sport_Clube_Beira-Mar.png/180px-Sport_Clube_Beira-Mar.png" },
@@ -807,7 +807,7 @@ const leagues = {
   },
   'pt_4_c': {
     name: "Campeonato de Portugal - Grupo C",
-    country: 'Ora pois',
+    country: 'Portugal',
     teams: [
       { name: "Clube Desportivo Alcains", id: "pt_4_29", logo: "https://upload.wikimedia.org/wikipedia/en/1/1d/Clube_desportivo_de_alcains.gif" },
       { name: "Futebol Clube de Alverca", id: "pt_4_30", logo: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/F.C._Alverca_logo.svg/180px-F.C._Alverca_logo.svg.png" },
@@ -827,7 +827,7 @@ const leagues = {
   },
   'pt_4_d': {
     name: "Campeonato de Portugal - Grupo D",
-    country: 'Ora pois',
+    country: 'Portugal',
     teams: [
       { name: "Amora Futebol Clube", id: "pt_4_43", logo: "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Amora_F.C._logo.svg/130px-Amora_F.C._logo.svg.png" },
       { name: "Futebol Clube Barreirense", id: "pt_4_44", logo: "https://upload.wikimedia.org/wikipedia/en/d/d6/F.C._Barreirense_logo.png" },
