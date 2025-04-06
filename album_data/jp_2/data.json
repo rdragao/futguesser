@@ -1,0 +1,85 @@
+{
+    "name": "J.League 2",
+    "teams": [
+        {
+            "name": "Júbilo Iwata",
+            "id": "jp_2_1"
+        },
+        {
+            "name": "Blaublitz Akita",
+            "id": "jp_2_2"
+        },
+        {
+            "name": "Ehime FC",
+            "id": "jp_2_3"
+        },
+        {
+            "name": "FC Imabari",
+            "id": "jp_2_4"
+        },
+        {
+            "name": "Fujieda MYFC",
+            "id": "jp_2_5"
+        },
+        {
+            "name": "Hokkaido Consadole Sapporo",
+            "id": "jp_2_6"
+        },
+        {
+            "name": "Iwaki FC",
+            "id": "jp_2_7"
+        },
+        {
+            "name": "JEF United Chiba",
+            "id": "jp_2_8"
+        },
+        {
+            "name": "Kataller Toyama",
+            "id": "jp_2_9"
+        },
+        {
+            "name": "Mito Hollyhock",
+            "id": "jp_2_10"
+        },
+        {
+            "name": "Montedio Yamagata",
+            "id": "jp_2_11"
+        },
+        {
+            "name": "Oita Trinita",
+            "id": "jp_2_12"
+        },
+        {
+            "name": "Omiya Ardija",
+            "id": "jp_2_13"
+        },
+        {
+            "name": "Renofa Yamaguchi",
+            "id": "jp_2_14"
+        },
+        {
+            "name": "Roasso Kumamoto",
+            "id": "jp_2_15"
+        },
+        {
+            "name": "Sagan Tosu",
+            "id": "jp_2_16"
+        },
+        {
+            "name": "Tokushima Vortis",
+            "id": "jp_2_17"
+        },
+        {
+            "name": "V-Varen Nagasaki",
+            "id": "jp_2_18"
+        },
+        {
+            "name": "Vegalta Sendai",
+            "id": "jp_2_19"
+        },
+        {
+            "name": "Ventforet Kofu",
+            "id": "jp_2_20"
+        }
+    ]
+}

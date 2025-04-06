@@ -1,0 +1,85 @@
+{
+    "name": "Serie C - Girone C",
+    "teams": [
+        {
+            "name": "Società Sportiva Audace Cerignola",
+            "id": "it_3_41"
+        },
+        {
+            "name": "Unione Sportiva Avellino 1912",
+            "id": "it_3_42"
+        },
+        {
+            "name": "AZ Picerno",
+            "id": "it_3_43"
+        },
+        {
+            "name": "Benevento Calcio",
+            "id": "it_3_44"
+        },
+        {
+            "name": "Casertana Football Club",
+            "id": "it_3_45"
+        },
+        {
+            "name": "Catania Football Club",
+            "id": "it_3_46"
+        },
+        {
+            "name": "Cavese 1919",
+            "id": "it_3_47"
+        },
+        {
+            "name": "Football Club Crotone",
+            "id": "it_3_48"
+        },
+        {
+            "name": "Calcio Foggia 1920",
+            "id": "it_3_49"
+        },
+        {
+            "name": "Giugliano Calcio 1928",
+            "id": "it_3_50"
+        },
+        {
+            "name": "Juventus Next Gen",
+            "id": "it_3_51"
+        },
+        {
+            "name": "Latina Calcio 1932",
+            "id": "it_3_52"
+        },
+        {
+            "name": "Associazioni Calcio Riunite Messina",
+            "id": "it_3_53"
+        },
+        {
+            "name": "Società Sportiva Monopoli 1966",
+            "id": "it_3_54"
+        },
+        {
+            "name": "Potenza Calcio",
+            "id": "it_3_55"
+        },
+        {
+            "name": "Sorrento Calcio 1945",
+            "id": "it_3_56"
+        },
+        {
+            "name": "Taranto Football Club 1927",
+            "id": "it_3_57"
+        },
+        {
+            "name": "Team Altamura",
+            "id": "it_3_58"
+        },
+        {
+            "name": "Football Club Trapani 1905",
+            "id": "it_3_59"
+        },
+        {
+            "name": "Società Sportiva Turris Calcio",
+            "id": "it_3_60"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Serie C - Girone B",
+    "teams": [
+        {
+            "name": "Società Sportiva Arezzo",
+            "id": "it_3_21"
+        },
+        {
+            "name": "Ascoli Calcio 1898 FC",
+            "id": "it_3_22"
+        },
+        {
+            "name": "Campobasso Football Club",
+            "id": "it_3_23"
+        },
+        {
+            "name": "A.C. Carpi",
+            "id": "it_3_24"
+        },
+        {
+            "name": "Associazione Sportiva Gubbio 1910",
+            "id": "it_3_25"
+        },
+        {
+            "name": "Football Club Legnago Salus",
+            "id": "it_3_26"
+        },
+        {
+            "name": "Lucchese 1905",
+            "id": "it_3_27"
+        },
+        {
+            "name": "Milan Futuro",
+            "id": "it_3_28"
+        },
+        {
+            "name": "Associazione Calcistica Perugia Calcio",
+            "id": "it_3_29"
+        },
+        {
+            "name": "Delfino Pescara 1936",
+            "id": "it_3_30"
+        },
+        {
+            "name": "Unione Sportiva Pianese",
+            "id": "it_3_31"
+        },
+        {
+            "name": "Associazione Sportiva Pineto Calcio",
+            "id": "it_3_32"
+        },
+        {
+            "name": "Unione Sportiva Città di Pontedera",
+            "id": "it_3_33"
+        },
+        {
+            "name": "Rimini Football Club",
+            "id": "it_3_34"
+        },
+        {
+            "name": "Unione Sportiva Sestri Levante 1919",
+            "id": "it_3_35"
+        },
+        {
+            "name": "S.P.A.L.",
+            "id": "it_3_36"
+        },
+        {
+            "name": "Ternana Calcio",
+            "id": "it_3_37"
+        },
+        {
+            "name": "Torres (calcio)",
+            "id": "it_3_38"
+        },
+        {
+            "name": "Virtus Entella",
+            "id": "it_3_39"
+        },
+        {
+            "name": "Vis Pesaro dal 1898",
+            "id": "it_3_40"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": "J.League 1",
+    "teams": [
+        {
+            "name": "Kashima Antlers",
+            "id": "jp_1_1"
+        },
+        {
+            "name": "Yokohama F. Marinos",
+            "id": "jp_1_2"
+        },
+        {
+            "name": "Kawasaki Frontale",
+            "id": "jp_1_3"
+        },
+        {
+            "name": "Sanfrecce Hiroshima",
+            "id": "jp_1_4"
+        },
+        {
+            "name": "Gamba Osaka",
+            "id": "jp_1_5"
+        },
+        {
+            "name": "Tokyo Verdy",
+            "id": "jp_1_6"
+        },
+        {
+            "name": "Vissel Kobe",
+            "id": "jp_1_7"
+        },
+        {
+            "name": "Kashiwa Reysol",
+            "id": "jp_1_8"
+        },
+        {
+            "name": "Nagoya Grampus",
+            "id": "jp_1_9"
+        },
+        {
+            "name": "Urawa Red Diamonds",
+            "id": "jp_1_10"
+        },
+        {
+            "name": "Albirex Niigata",
+            "id": "jp_1_11"
+        },
+        {
+            "name": "Avispa Fukuoka",
+            "id": "jp_1_12"
+        },
+        {
+            "name": "Cerezo Osaka",
+            "id": "jp_1_13"
+        },
+        {
+            "name": "Fagiano Okayama",
+            "id": "jp_1_14"
+        },
+        {
+            "name": "FC Tokyo",
+            "id": "jp_1_15"
+        },
+        {
+            "name": "Kyoto Sanga",
+            "id": "jp_1_16"
+        },
+        {
+            "name": "Machida Zelvia",
+            "id": "jp_1_17"
+        },
+        {
+            "name": "Shimizu S-Pulse",
+            "id": "jp_1_18"
+        },
+        {
+            "name": "Shonan Bellmare",
+            "id": "jp_1_19"
+        },
+        {
+            "name": "Yokohama FC",
+            "id": "jp_1_20"
+        }
+    ]
+}
