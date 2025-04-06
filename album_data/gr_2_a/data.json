@@ -1,0 +1,45 @@
+{
+    "name": "Super League 2 North",
+    "teams": [
+        {
+            "name": "Αθλητική Ένωση Λάρισας",
+            "id": "gr_2_1"
+        },
+        {
+            "name": "Ποδοσφαιρική Ανώνυμη Εταιρεία Γυμναστικός Σύλλογος Διαγόρας 1905",
+            "id": "gr_2_2"
+        },
+        {
+            "name": "Ethnikos Proodeftikos Sillogos Neou Keramidiou Pierias",
+            "id": "gr_2_3"
+        },
+        {
+            "name": "Γυμναστικός Σύλλογος Θεσσαλονίκης «Ηρακλής»",
+            "id": "gr_2_4"
+        },
+        {
+            "name": "Kampaniakos Chalastra Football Club",
+            "id": "gr_2_5"
+        },
+        {
+            "name": "Αθλητικός Όμιλος Καβάλα",
+            "id": "gr_2_6"
+        },
+        {
+            "name": "Makedonikos Football Club",
+            "id": "gr_2_7"
+        },
+        {
+            "name": "Niki Volos Football Club",
+            "id": "gr_2_8"
+        },
+        {
+            "name": "PAOK Thessaloniki FC B",
+            "id": "gr_2_9"
+        },
+        {
+            "name": "Πανηπειρωτικός Αθλητικός Σύλλογος Γιάννινα 1966",
+            "id": "gr_2_10"
+        }
+    ]
+}

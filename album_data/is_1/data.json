@@ -1,0 +1,53 @@
+{
+    "name": "Besta deild karla",
+    "teams": [
+        {
+            "name": "Ungmennafélagið Afturelding",
+            "id": "is_1_1"
+        },
+        {
+            "name": "Breiðablik",
+            "id": "is_1_2"
+        },
+        {
+            "name": "Fimleikafélag Hafnarfjarðar",
+            "id": "is_1_3"
+        },
+        {
+            "name": "Knattspyrnufélagið Fram",
+            "id": "is_1_4"
+        },
+        {
+            "name": "Íþróttabandalag Akraness",
+            "id": "is_1_5"
+        },
+        {
+            "name": "ÍBV-íþróttafélag",
+            "id": "is_1_6"
+        },
+        {
+            "name": "Knattspyrnufélag Akureyrar",
+            "id": "is_1_7"
+        },
+        {
+            "name": "Knattspyrnufélag Reykjavíkur",
+            "id": "is_1_8"
+        },
+        {
+            "name": "Ungmennafélag Stjarnan",
+            "id": "is_1_9"
+        },
+        {
+            "name": "Knattspyrnufélagið Valur",
+            "id": "is_1_10"
+        },
+        {
+            "name": "Íþróttafélagið Vestri",
+            "id": "is_1_11"
+        },
+        {
+            "name": "Knattspyrnufélagið Víkingur",
+            "id": "is_1_12"
+        }
+    ]
+}

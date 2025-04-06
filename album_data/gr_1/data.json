@@ -1,0 +1,61 @@
+{
+    "name": "Super League",
+    "teams": [
+        {
+            "name": "Αθλητική Ένωσις Κωνσταντινουπόλεως",
+            "id": "gr_1_1"
+        },
+        {
+            "name": "Aris Thessaloniki Football Club",
+            "id": "gr_1_2"
+        },
+        {
+            "name": "Αθλητικός Γυμναστικός Σύλλογος Αστέρας Τρίπολης",
+            "id": "gr_1_3"
+        },
+        {
+            "name": "Athens Kallithea Football Club",
+            "id": "gr_1_4"
+        },
+        {
+            "name": "Π.Α.Ε. Α.Π.Σ. Ατρόμητος Αθηνών",
+            "id": "gr_1_5"
+        },
+        {
+            "name": "Π.Α.Ε. Π.Α.Σ. Λαμία 1964",
+            "id": "gr_1_6"
+        },
+        {
+            "name": "APO Levadiakos Football Club",
+            "id": "gr_1_7"
+        },
+        {
+            "name": "Όμιλος Φιλάθλων ΗρακλείουÓmilos",
+            "id": "gr_1_8"
+        },
+        {
+            "name": "Ολυμπιακός Σύνδεσμος Φιλάθλων Πειραιώς",
+            "id": "gr_1_9"
+        },
+        {
+            "name": "Παναθηναϊκός Αθλητικός Όμιλος",
+            "id": "gr_1_10"
+        },
+        {
+            "name": "Pan-Aetolian Gymnastic and Educational Club",
+            "id": "gr_1_11"
+        },
+        {
+            "name": "Panserraikos Football Club",
+            "id": "gr_1_12"
+        },
+        {
+            "name": "Πανθεσσαλονίκειος Αθλητικός Όμιλος Κωνσταντινουπολιτών",
+            "id": "gr_1_13"
+        },
+        {
+            "name": "Volos New Football Club",
+            "id": "gr_1_14"
+        }
+    ]
+}

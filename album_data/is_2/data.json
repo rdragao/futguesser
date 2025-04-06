@@ -1,0 +1,53 @@
+{
+    "name": "Lengjudeild karla",
+    "teams": [
+        {
+            "name": "Ungmennafélagið Fjölnir",
+            "id": "is_2_1"
+        },
+        {
+            "name": "Íþróttafélagið Fylkir",
+            "id": "is_2_2"
+        },
+        {
+            "name": "Ungmennafélag Grindavíkur",
+            "id": "is_2_3"
+        },
+        {
+            "name": "Handknattleiksfélag Kópavogs",
+            "id": "is_2_4"
+        },
+        {
+            "name": "Íþróttafélag Reykjavíkur",
+            "id": "is_2_5"
+        },
+        {
+            "name": "Knattspyrnudeild Keflavíkur",
+            "id": "is_2_6"
+        },
+        {
+            "name": "Leiknir Reykjavík",
+            "id": "is_2_7"
+        },
+        {
+            "name": "Ungmennafélag Njarðvíkur",
+            "id": "is_2_8"
+        },
+        {
+            "name": "Ungmennafélag Selfoss",
+            "id": "is_2_9"
+        },
+        {
+            "name": "Íþróttafélagið Völsungur",
+            "id": "is_2_10"
+        },
+        {
+            "name": "Íþróttafélagið Þór",
+            "id": "is_2_11"
+        },
+        {
+            "name": "Knattspyrnufélagið Þróttur",
+            "id": "is_2_12"
+        }
+    ]
+}

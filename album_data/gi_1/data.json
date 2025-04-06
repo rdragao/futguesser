@@ -1,0 +1,9 @@
+{
+    "name": "Gibraltar Football League",
+    "teams": [
+        {
+            "name": "St Joseph's Football Club",
+            "id": "gi_1_11"
+        }
+    ]
+}

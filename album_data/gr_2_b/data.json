@@ -1,0 +1,45 @@
+{
+    "name": "Super League 2 South",
+    "teams": [
+        {
+            "name": "AEK Athens B Football Club",
+            "id": "gr_2_11"
+        },
+        {
+            "name": "A.E. Kifisia Football Club",
+            "id": "gr_2_12"
+        },
+        {
+            "name": "Αθλητικός Γυμναστικός Σύλλογος Αστέρας Τρίπολης",
+            "id": "gr_2_13"
+        },
+        {
+            "name": "Ποδοσφαιρική Αθλητική Ενωση Χανιά",
+            "id": "gr_2_14"
+        },
+        {
+            "name": "Αθλητικός Όμιλος Αιγάλεω",
+            "id": "gr_2_15"
+        },
+        {
+            "name": "Gymnastic Club Ilioupolis",
+            "id": "gr_2_16"
+        },
+        {
+            "name": "Ποδοσφαιρικός Σύλλογος Η Καλαμάτα",
+            "id": "gr_2_17"
+        },
+        {
+            "name": "Panachaiki 1891 Football Club",
+            "id": "gr_2_18"
+        },
+        {
+            "name": "Panargiakos Athlitkos Podosfairikos Omilos",
+            "id": "gr_2_19"
+        },
+        {
+            "name": "Πανιώνιος Γυμναστικός Σύλλογος Σμύρνης",
+            "id": "gr_2_20"
+        }
+    ]
+}
