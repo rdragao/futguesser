@@ -1,0 +1,101 @@
+{
+    "name": "English Football League Championship",
+    "teams": [
+        {
+            "name": "Blackburn Rovers Football Club",
+            "id": "en_2_1"
+        },
+        {
+            "name": "Bristol City Football Club",
+            "id": "en_2_2"
+        },
+        {
+            "name": "Burnley Football Club",
+            "id": "en_2_3"
+        },
+        {
+            "name": "Cardiff City Football Club",
+            "id": "en_2_4"
+        },
+        {
+            "name": "Coventry City Football Club",
+            "id": "en_2_5"
+        },
+        {
+            "name": "Derby County Football Club",
+            "id": "en_2_6"
+        },
+        {
+            "name": "Hull City Association Football Club",
+            "id": "en_2_7"
+        },
+        {
+            "name": "Leeds United Football Club",
+            "id": "en_2_8"
+        },
+        {
+            "name": "Luton Town Football Club",
+            "id": "en_2_9"
+        },
+        {
+            "name": "Middlesbrough Football Club",
+            "id": "en_2_10"
+        },
+        {
+            "name": "Millwall Football Club",
+            "id": "en_2_11"
+        },
+        {
+            "name": "Norwich City Football Club",
+            "id": "en_2_12"
+        },
+        {
+            "name": "Oxford United Football Club",
+            "id": "en_2_13"
+        },
+        {
+            "name": "Plymouth Argyle Football Club",
+            "id": "en_2_14"
+        },
+        {
+            "name": "Portsmouth Football Club",
+            "id": "en_2_15"
+        },
+        {
+            "name": "Preston North End Football Club",
+            "id": "en_2_16"
+        },
+        {
+            "name": "Queens Park Rangers Football Club",
+            "id": "en_2_17"
+        },
+        {
+            "name": "Sheffield United Football Club",
+            "id": "en_2_18"
+        },
+        {
+            "name": "Sheffield Wednesday Football Club",
+            "id": "en_2_19"
+        },
+        {
+            "name": "Stoke City Football Club",
+            "id": "en_2_20"
+        },
+        {
+            "name": "Sunderland Association Football Club",
+            "id": "en_2_21"
+        },
+        {
+            "name": "Swansea City Association Football Club",
+            "id": "en_2_22"
+        },
+        {
+            "name": "Watford Football Club",
+            "id": "en_2_23"
+        },
+        {
+            "name": "West Bromwich Albion Football Club",
+            "id": "en_2_24"
+        }
+    ]
+}

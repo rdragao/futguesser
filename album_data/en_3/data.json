@@ -1,0 +1,101 @@
+{
+    "name": "English Football League One",
+    "teams": [
+        {
+            "name": "Barnsley Football Club",
+            "id": "en_3_1"
+        },
+        {
+            "name": "Birmingham City Football Club",
+            "id": "en_3_2"
+        },
+        {
+            "name": "Blackpool Football Club",
+            "id": "en_3_3"
+        },
+        {
+            "name": "Bolton Wanderers Football Club",
+            "id": "en_3_4"
+        },
+        {
+            "name": "Bristol Rovers Football Club",
+            "id": "en_3_5"
+        },
+        {
+            "name": "Burton Albion Football Club",
+            "id": "en_3_6"
+        },
+        {
+            "name": "Cambridge United Football Club",
+            "id": "en_3_7"
+        },
+        {
+            "name": "Charlton Athletic Football Club",
+            "id": "en_3_8"
+        },
+        {
+            "name": "Crawley Town Football Club",
+            "id": "en_3_9"
+        },
+        {
+            "name": "Exeter City Football Club",
+            "id": "en_3_10"
+        },
+        {
+            "name": "Huddersfield Town Association Football Club",
+            "id": "en_3_11"
+        },
+        {
+            "name": "Leyton Orient Football Club",
+            "id": "en_3_12"
+        },
+        {
+            "name": "Lincoln City Football Club",
+            "id": "en_3_13"
+        },
+        {
+            "name": "Mansfield Town Football Club",
+            "id": "en_3_14"
+        },
+        {
+            "name": "Northampton Town Football Club",
+            "id": "en_3_15"
+        },
+        {
+            "name": "Peterborough United Football Club",
+            "id": "en_3_16"
+        },
+        {
+            "name": "Reading Football Club",
+            "id": "en_3_17"
+        },
+        {
+            "name": "Rotherham United Football Club",
+            "id": "en_3_18"
+        },
+        {
+            "name": "Shrewsbury Town Football Club",
+            "id": "en_3_19"
+        },
+        {
+            "name": "Stevenage Football Club",
+            "id": "en_3_20"
+        },
+        {
+            "name": "Stockport County Football Club",
+            "id": "en_3_21"
+        },
+        {
+            "name": "Wigan Athletic Football Club",
+            "id": "en_3_22"
+        },
+        {
+            "name": "Wrexham Association Football Club",
+            "id": "en_3_23"
+        },
+        {
+            "name": "Wycombe Wanderers Football Club",
+            "id": "en_3_24"
+        }
+    ]
+}

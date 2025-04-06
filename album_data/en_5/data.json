@@ -1,0 +1,101 @@
+{
+    "name": "National League",
+    "teams": [
+        {
+            "name": "Aldershot Town Football Club",
+            "id": "en_5_1"
+        },
+        {
+            "name": "Altrincham Football Club",
+            "id": "en_5_2"
+        },
+        {
+            "name": "Association Football Club Fylde",
+            "id": "en_5_3"
+        },
+        {
+            "name": "Barnet Football Club",
+            "id": "en_5_4"
+        },
+        {
+            "name": "Boston United Football Club",
+            "id": "en_5_5"
+        },
+        {
+            "name": "Braintree Town Football Club",
+            "id": "en_5_6"
+        },
+        {
+            "name": "Dagenham & Redbridge Football Club",
+            "id": "en_5_7"
+        },
+        {
+            "name": "Eastleigh Football Club",
+            "id": "en_5_8"
+        },
+        {
+            "name": "Ebbsfleet United Football Club",
+            "id": "en_5_9"
+        },
+        {
+            "name": "Football Club Halifax Town",
+            "id": "en_5_10"
+        },
+        {
+            "name": "Forest Green Rovers Football Club",
+            "id": "en_5_11"
+        },
+        {
+            "name": "Gateshead Football Club",
+            "id": "en_5_12"
+        },
+        {
+            "name": "Hartlepool United Football Club",
+            "id": "en_5_13"
+        },
+        {
+            "name": "Maidenhead United Football Club",
+            "id": "en_5_14"
+        },
+        {
+            "name": "Oldham Athletic Association Football Club",
+            "id": "en_5_15"
+        },
+        {
+            "name": "Rochdale Association Football Club",
+            "id": "en_5_16"
+        },
+        {
+            "name": "Solihull Moors Football Club",
+            "id": "en_5_17"
+        },
+        {
+            "name": "Southend United Football Club",
+            "id": "en_5_18"
+        },
+        {
+            "name": "Sutton United Football Club",
+            "id": "en_5_19"
+        },
+        {
+            "name": "Tamworth Football Club",
+            "id": "en_5_20"
+        },
+        {
+            "name": "Wealdstone Football Club",
+            "id": "en_5_21"
+        },
+        {
+            "name": "Woking Football Club",
+            "id": "en_5_22"
+        },
+        {
+            "name": "Yeovil Town Football Club",
+            "id": "en_5_23"
+        },
+        {
+            "name": "York City Football Club",
+            "id": "en_5_24"
+        }
+    ]
+}

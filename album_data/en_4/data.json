@@ -1,0 +1,101 @@
+{
+    "name": "English Football League Two",
+    "teams": [
+        {
+            "name": "Accrington Stanley Football Club",
+            "id": "en_4_1"
+        },
+        {
+            "name": "Association Football Club Wimbledon",
+            "id": "en_4_2"
+        },
+        {
+            "name": "Barrow Association Football Club",
+            "id": "en_4_3"
+        },
+        {
+            "name": "Bradford City Association Football Club",
+            "id": "en_4_4"
+        },
+        {
+            "name": "Bromley Football Club",
+            "id": "en_4_5"
+        },
+        {
+            "name": "Carlisle United Football Club",
+            "id": "en_4_6"
+        },
+        {
+            "name": "Cheltenham Town Football Club",
+            "id": "en_4_7"
+        },
+        {
+            "name": "Chesterfield Football Club",
+            "id": "en_4_8"
+        },
+        {
+            "name": "Colchester United Football Club",
+            "id": "en_4_9"
+        },
+        {
+            "name": "Crewe Alexandra Football Club",
+            "id": "en_4_10"
+        },
+        {
+            "name": "Doncaster Rovers Football Club",
+            "id": "en_4_11"
+        },
+        {
+            "name": "Fleetwood Town Football Club",
+            "id": "en_4_12"
+        },
+        {
+            "name": "Gillingham Football Club",
+            "id": "en_4_13"
+        },
+        {
+            "name": "Grimsby Town Football Club",
+            "id": "en_4_14"
+        },
+        {
+            "name": "Harrogate Town Association Football Club",
+            "id": "en_4_15"
+        },
+        {
+            "name": "Milton Keynes Dons Football Club",
+            "id": "en_4_16"
+        },
+        {
+            "name": "Morecambe Football Club",
+            "id": "en_4_17"
+        },
+        {
+            "name": "Newport County Association Football Club",
+            "id": "en_4_18"
+        },
+        {
+            "name": "Notts County Football Club",
+            "id": "en_4_19"
+        },
+        {
+            "name": "Port Vale Football Club",
+            "id": "en_4_20"
+        },
+        {
+            "name": "Salford City Football Club",
+            "id": "en_4_21"
+        },
+        {
+            "name": "Swindon Town Football Club",
+            "id": "en_4_22"
+        },
+        {
+            "name": "Tranmere Rovers Football Club",
+            "id": "en_4_23"
+        },
+        {
+            "name": "Walsall Football Club",
+            "id": "en_4_24"
+        }
+    ]
+}
