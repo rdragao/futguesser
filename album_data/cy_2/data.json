@@ -1,0 +1,69 @@
+{
+    "name": "Cypriot Second Division",
+    "teams": [
+        {
+            "name": "Achyronas-Onisilos Football Club",
+            "id": "cy_2_1"
+        },
+        {
+            "name": "Athletic Union of Zakaki",
+            "id": "cy_2_2"
+        },
+        {
+            "name": "Akritas Chlorakas",
+            "id": "cy_2_3"
+        },
+        {
+            "name": "Αναγέννηση Δερύνειας",
+            "id": "cy_2_4"
+        },
+        {
+            "name": "Athletic Club Ischis Lysi",
+            "id": "cy_2_5"
+        },
+        {
+            "name": "Athlitikos Omilos Ayias Napas",
+            "id": "cy_2_6"
+        },
+        {
+            "name": "Χαλκάνορας Ιδαλίου",
+            "id": "cy_2_7"
+        },
+        {
+            "name": "Digenis Akritas Morphou",
+            "id": "cy_2_8"
+        },
+        {
+            "name": "Doxa Katokopias FC",
+            "id": "cy_2_9"
+        },
+        {
+            "name": "Krasava ENY Ypsonas Football Club",
+            "id": "cy_2_10"
+        },
+        {
+            "name": "Mikti Erithrou Astera Proodou Pera Choriou Nisou",
+            "id": "cy_2_11"
+        },
+        {
+            "name": "Olympiakos Nicosia Football Club",
+            "id": "cy_2_12"
+        },
+        {
+            "name": "Αθλητικός Σύλλογος Οθέλλος Αθηαίνου",
+            "id": "cy_2_13"
+        },
+        {
+            "name": "Podosfairiki Athlitiki Enosis Eparxeias Kerynias",
+            "id": "cy_2_14"
+        },
+        {
+            "name": "Πέγεια 2014",
+            "id": "cy_2_15"
+        },
+        {
+            "name": "Spartakos Kitiou FC",
+            "id": "cy_2_16"
+        }
+    ]
+}
