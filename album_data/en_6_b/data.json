@@ -1,0 +1,101 @@
+{
+    "name": "National League South",
+    "teams": [
+        {
+            "name": "Aveley Football Club",
+            "id": "en_6_25"
+        },
+        {
+            "name": "Bath City Football Club",
+            "id": "en_6_26"
+        },
+        {
+            "name": "Boreham Wood Football Club",
+            "id": "en_6_27"
+        },
+        {
+            "name": "Chelmsford City Football Club",
+            "id": "en_6_28"
+        },
+        {
+            "name": "Chesham United Football Club",
+            "id": "en_6_29"
+        },
+        {
+            "name": "Chippenham Town Football Club",
+            "id": "en_6_30"
+        },
+        {
+            "name": "Dorking Wanderers Football Club",
+            "id": "en_6_31"
+        },
+        {
+            "name": "Eastbourne Borough Football Club",
+            "id": "en_6_32"
+        },
+        {
+            "name": "Enfield Town Football Club",
+            "id": "en_6_33"
+        },
+        {
+            "name": "Farnborough Football Club",
+            "id": "en_6_34"
+        },
+        {
+            "name": "Hampton & Richmond Borough Football Club",
+            "id": "en_6_35"
+        },
+        {
+            "name": "Hemel Hempstead Town Football Club",
+            "id": "en_6_36"
+        },
+        {
+            "name": "Hornchurch Football Club",
+            "id": "en_6_37"
+        },
+        {
+            "name": "Maidstone United Football Club",
+            "id": "en_6_38"
+        },
+        {
+            "name": "Salisbury Football Club",
+            "id": "en_6_39"
+        },
+        {
+            "name": "Slough Town Football Club",
+            "id": "en_6_40"
+        },
+        {
+            "name": "St Albans City Football Club",
+            "id": "en_6_41"
+        },
+        {
+            "name": "Tonbridge Angels Football Club",
+            "id": "en_6_42"
+        },
+        {
+            "name": "Torquay United Football Club",
+            "id": "en_6_43"
+        },
+        {
+            "name": "Truro City Football Club",
+            "id": "en_6_44"
+        },
+        {
+            "name": "Welling United Football Club",
+            "id": "en_6_45"
+        },
+        {
+            "name": "Weston-super-Mare Association Football Club",
+            "id": "en_6_46"
+        },
+        {
+            "name": "Weymouth Football Club",
+            "id": "en_6_47"
+        },
+        {
+            "name": "Worthing Football Club",
+            "id": "en_6_48"
+        }
+    ]
+}

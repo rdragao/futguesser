@@ -1,0 +1,93 @@
+{
+    "name": "Northern Premier League Premier Division",
+    "teams": [
+        {
+            "name": "Ashton United Football Club",
+            "id": "en_7_1"
+        },
+        {
+            "name": "Bamber Bridge Football Club",
+            "id": "en_7_2"
+        },
+        {
+            "name": "Basford United Football Club",
+            "id": "en_7_3"
+        },
+        {
+            "name": "Blyth Spartans Association Football Club",
+            "id": "en_7_4"
+        },
+        {
+            "name": "Football Club United of Manchester",
+            "id": "en_7_5"
+        },
+        {
+            "name": "Gainsborough Trinity Football Club",
+            "id": "en_7_6"
+        },
+        {
+            "name": "Guiseley Association Football Club",
+            "id": "en_7_7"
+        },
+        {
+            "name": "Hebburn Town Football Club",
+            "id": "en_7_8"
+        },
+        {
+            "name": "Hyde United Football Club",
+            "id": "en_7_9"
+        },
+        {
+            "name": "Ilkeston Town Football Club",
+            "id": "en_7_10"
+        },
+        {
+            "name": "Lancaster City Football Club",
+            "id": "en_7_11"
+        },
+        {
+            "name": "Leek Town Football Club",
+            "id": "en_7_12"
+        },
+        {
+            "name": "Macclesfield Football Club",
+            "id": "en_7_13"
+        },
+        {
+            "name": "Matlock Town Football Club",
+            "id": "en_7_14"
+        },
+        {
+            "name": "Mickleover Football Club",
+            "id": "en_7_15"
+        },
+        {
+            "name": "Morpeth Town Association Football Club",
+            "id": "en_7_16"
+        },
+        {
+            "name": "Prescot Cables Football Club",
+            "id": "en_7_17"
+        },
+        {
+            "name": "Stockton Town Football Club",
+            "id": "en_7_18"
+        },
+        {
+            "name": "Warrington Rylands 1906 Football Club",
+            "id": "en_7_19"
+        },
+        {
+            "name": "Whitby Town Football Club",
+            "id": "en_7_20"
+        },
+        {
+            "name": "Workington Association Football Club",
+            "id": "en_7_21"
+        },
+        {
+            "name": "Worksop Town Football Club",
+            "id": "en_7_22"
+        }
+    ]
+}

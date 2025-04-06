@@ -1,0 +1,101 @@
+{
+    "name": "National League North",
+    "teams": [
+        {
+            "name": "Alfreton Town Football Club",
+            "id": "en_6_1"
+        },
+        {
+            "name": "Brackley Town Football Club",
+            "id": "en_6_2"
+        },
+        {
+            "name": "Buxton Football Club",
+            "id": "en_6_3"
+        },
+        {
+            "name": "Chester Football Club",
+            "id": "en_6_4"
+        },
+        {
+            "name": "Chorley Football Club",
+            "id": "en_6_5"
+        },
+        {
+            "name": "Curzon Ashton Football Club",
+            "id": "en_6_6"
+        },
+        {
+            "name": "Darlington Football Club",
+            "id": "en_6_7"
+        },
+        {
+            "name": "Farsley Celtic Football Club",
+            "id": "en_6_8"
+        },
+        {
+            "name": "Hereford Football Club",
+            "id": "en_6_9"
+        },
+        {
+            "name": "Kidderminster Harriers Football Club",
+            "id": "en_6_10"
+        },
+        {
+            "name": "King's Lynn Town Football Club",
+            "id": "en_6_11"
+        },
+        {
+            "name": "Leamington Football Club",
+            "id": "en_6_12"
+        },
+        {
+            "name": "Marine Association Football Club",
+            "id": "en_6_13"
+        },
+        {
+            "name": "Needham Market Football Club",
+            "id": "en_6_14"
+        },
+        {
+            "name": "Oxford City Football Club",
+            "id": "en_6_15"
+        },
+        {
+            "name": "Peterborough Sports Football Club",
+            "id": "en_6_16"
+        },
+        {
+            "name": "Radcliffe Football Club",
+            "id": "en_6_17"
+        },
+        {
+            "name": "Rushall Olympic Football Club",
+            "id": "en_6_18"
+        },
+        {
+            "name": "Scarborough Athletic Football Club",
+            "id": "en_6_19"
+        },
+        {
+            "name": "Scunthorpe United Football Club",
+            "id": "en_6_20"
+        },
+        {
+            "name": "South Shields Football Club",
+            "id": "en_6_21"
+        },
+        {
+            "name": "Southport Football Club",
+            "id": "en_6_22"
+        },
+        {
+            "name": "Spennymoor Town Football Club",
+            "id": "en_6_23"
+        },
+        {
+            "name": "Warrington Town Football Club",
+            "id": "en_6_24"
+        }
+    ]
+}
