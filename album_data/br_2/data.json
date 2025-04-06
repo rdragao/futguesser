@@ -1,0 +1,85 @@
+{
+    "name": "Série B",
+    "teams": [
+        {
+            "name": "Amazonas Futebol Clube",
+            "id": "br_2_1"
+        },
+        {
+            "name": "América Futebol Clube",
+            "id": "br_2_2"
+        },
+        {
+            "name": "Athletic Club",
+            "id": "br_2_3"
+        },
+        {
+            "name": "Club Athletico Paranaense",
+            "id": "br_2_4"
+        },
+        {
+            "name": "Atlético Clube Goianiense",
+            "id": "br_2_5"
+        },
+        {
+            "name": "Avaí Futebol Clube",
+            "id": "br_2_6"
+        },
+        {
+            "name": "Botafogo Futebol Clube",
+            "id": "br_2_7"
+        },
+        {
+            "name": "Associação Chapecoense de Futebol",
+            "id": "br_2_8"
+        },
+        {
+            "name": "Coritiba Foot Ball Club",
+            "id": "br_2_9"
+        },
+        {
+            "name": "Clube de Regatas Brasil",
+            "id": "br_2_10"
+        },
+        {
+            "name": "Criciúma Esporte Clube",
+            "id": "br_2_11"
+        },
+        {
+            "name": "Cuiabá Esporte Clube",
+            "id": "br_2_12"
+        },
+        {
+            "name": "Associação Ferroviáriade Esportes",
+            "id": "br_2_13"
+        },
+        {
+            "name": "Goiás Esporte Clube",
+            "id": "br_2_14"
+        },
+        {
+            "name": "Grêmio Novorizontino",
+            "id": "br_2_15"
+        },
+        {
+            "name": "Operário Ferroviário Esporte Clube",
+            "id": "br_2_16"
+        },
+        {
+            "name": "Paysandu Sport Club",
+            "id": "br_2_17"
+        },
+        {
+            "name": "Clube do Remo",
+            "id": "br_2_18"
+        },
+        {
+            "name": "Vila Nova Futebol Clube",
+            "id": "br_2_19"
+        },
+        {
+            "name": "Volta Redonda Futebol Clube",
+            "id": "br_2_20"
+        }
+    ]
+}

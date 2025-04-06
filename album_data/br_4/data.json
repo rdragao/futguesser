@@ -1,0 +1,261 @@
+{
+    "name": "Série D",
+    "teams": [
+        {
+            "name": "Independência Futebol Clube",
+            "id": "br_4_1"
+        },
+        {
+            "name": "Sport Clube Humaitá",
+            "id": "br_4_2"
+        },
+        {
+            "name": "Agremiação Sportiva Arapiraquense",
+            "id": "br_4_3"
+        },
+        {
+            "name": "Sport Club Penedense",
+            "id": "br_4_4"
+        },
+        {
+            "name": "Trem Desportivo Clube",
+            "id": "br_4_5"
+        },
+        {
+            "name": "Manaus Futebol Clube",
+            "id": "br_4_6"
+        },
+        {
+            "name": "Manauara Esporte",
+            "id": "br_4_7"
+        },
+        {
+            "name": "Barcelona Futebol Clube",
+            "id": "br_4_8"
+        },
+        {
+            "name": "Associação Desportiva Jequié",
+            "id": "br_4_9"
+        },
+        {
+            "name": "Sociedade Desportiva Juazeirense",
+            "id": "br_4_10"
+        },
+        {
+            "name": "Maracanã Esporte Clube",
+            "id": "br_4_11"
+        },
+        {
+            "name": "Associação Desportiva Iguatu",
+            "id": "br_4_12"
+        },
+        {
+            "name": "Horizonte Futebol Clube",
+            "id": "br_4_13"
+        },
+        {
+            "name": "Ferroviário Atlético Clube",
+            "id": "br_4_14"
+        },
+        {
+            "name": "Rio Branco Atlético Clube",
+            "id": "br_4_15"
+        },
+        {
+            "name": "Porto Vitória Futebol Clube",
+            "id": "br_4_16"
+        },
+        {
+            "name": "Ceilândia Esporte Clube",
+            "id": "br_4_17"
+        },
+        {
+            "name": "Capital Clube de Futebol",
+            "id": "br_4_18"
+        },
+        {
+            "name": "Goiânia Esporte Clube",
+            "id": "br_4_19"
+        },
+        {
+            "name": "Goiatuba Esporte Clube",
+            "id": "br_4_20"
+        },
+        {
+            "name": "Goianésia Esporte Clube",
+            "id": "br_4_21"
+        },
+        {
+            "name": "Associação Atlética Aparecidense",
+            "id": "br_4_22"
+        },
+        {
+            "name": "Maranhão Atlético Clube",
+            "id": "br_4_23"
+        },
+        {
+            "name": "Sociedade Imperatriz de Desportos",
+            "id": "br_4_24"
+        },
+        {
+            "name": "Sampaio Corrêa Futebol Clube",
+            "id": "br_4_25"
+        },
+        {
+            "name": "União Esporte Clube",
+            "id": "br_4_26"
+        },
+        {
+            "name": "Luverdense Esporte Clube",
+            "id": "br_4_27"
+        },
+        {
+            "name": "Operário Futebol Clube",
+            "id": "br_4_28"
+        },
+        {
+            "name": "Pouso Alegre Futebol Clube",
+            "id": "br_4_29"
+        },
+        {
+            "name": "Itabirito Futebol Clube",
+            "id": "br_4_30"
+        },
+        {
+            "name": "Uberlândia Esporte Clube",
+            "id": "br_4_31"
+        },
+        {
+            "name": "Tuna Luso Brasileira",
+            "id": "br_4_32"
+        },
+        {
+            "name": "Águia de Marabá Futebol Clube",
+            "id": "br_4_33"
+        },
+        {
+            "name": "Sousa Esporte Clube",
+            "id": "br_4_34"
+        },
+        {
+            "name": "Treze Futebol Clube",
+            "id": "br_4_35"
+        },
+        {
+            "name": "Futebol Clube Cascavel",
+            "id": "br_4_36"
+        },
+        {
+            "name": "Azuriz Futebol Clube",
+            "id": "br_4_37"
+        },
+        {
+            "name": "Cianorte Futebol Clube",
+            "id": "br_4_38"
+        },
+        {
+            "name": "Santa Cruz Futebol Clube",
+            "id": "br_4_39"
+        },
+        {
+            "name": "Central Sport Club",
+            "id": "br_4_40"
+        },
+        {
+            "name": "Associação Atlética de Altos",
+            "id": "br_4_41"
+        },
+        {
+            "name": "Parnahyba Sport Club",
+            "id": "br_4_42"
+        },
+        {
+            "name": "Nova Iguaçu Futebol Clube",
+            "id": "br_4_43"
+        },
+        {
+            "name": "Boavista Sport Club",
+            "id": "br_4_44"
+        },
+        {
+            "name": "Maricá Futebol",
+            "id": "br_4_45"
+        },
+        {
+            "name": "América Futebol Clube",
+            "id": "br_4_46"
+        },
+        {
+            "name": "Santa Cruz Futebol Clube",
+            "id": "br_4_47"
+        },
+        {
+            "name": "Guarany Futebol Clube",
+            "id": "br_4_48"
+        },
+        {
+            "name": "Grêmio Esportivo Brasil",
+            "id": "br_4_49"
+        },
+        {
+            "name": "Esporte Clube São Luiz",
+            "id": "br_4_50"
+        },
+        {
+            "name": "Esporte Clube São José",
+            "id": "br_4_51"
+        },
+        {
+            "name": "Porto Velho Esporte Clube",
+            "id": "br_4_52"
+        },
+        {
+            "name": "Grêmio Atlético Sampaio",
+            "id": "br_4_53"
+        },
+        {
+            "name": "Barra Futebol Clube",
+            "id": "br_4_54"
+        },
+        {
+            "name": "Clube Náutico Marcílio Dias",
+            "id": "br_4_55"
+        },
+        {
+            "name": "Joinville Esporte Clube",
+            "id": "br_4_56"
+        },
+        {
+            "name": "Associação Atlética Internacional",
+            "id": "br_4_57"
+        },
+        {
+            "name": "Associação Portuguesa de Desportos",
+            "id": "br_4_58"
+        },
+        {
+            "name": "Esporte Clube Água Santa",
+            "id": "br_4_59"
+        },
+        {
+            "name": "Atlético Monte Azul",
+            "id": "br_4_60"
+        },
+        {
+            "name": "Club Sportivo Sergipe",
+            "id": "br_4_61"
+        },
+        {
+            "name": "Lagarto Futebol Clube",
+            "id": "br_4_62"
+        },
+        {
+            "name": "União Atlético",
+            "id": "br_4_63"
+        },
+        {
+            "name": "Tocantinópolis Esporte Clube",
+            "id": "br_4_64"
+        }
+    ]
+}

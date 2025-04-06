@@ -1,0 +1,85 @@
+{
+    "name": "Série C",
+    "teams": [
+        {
+            "name": "ABC Futebol Clube",
+            "id": "br_3_1"
+        },
+        {
+            "name": "Anápolis Futebol Clube",
+            "id": "br_3_2"
+        },
+        {
+            "name": "Botafogo Futebol Clube",
+            "id": "br_3_3"
+        },
+        {
+            "name": "Brusque Futebol Clube",
+            "id": "br_3_4"
+        },
+        {
+            "name": "Sociedade Esportiva e Recreativa Caxias do Sul",
+            "id": "br_3_5"
+        },
+        {
+            "name": "Associação Desportiva Confiança",
+            "id": "br_3_6"
+        },
+        {
+            "name": "Centro Sportivo Alagoano",
+            "id": "br_3_7"
+        },
+        {
+            "name": "Figueirense Futebol Clube",
+            "id": "br_3_8"
+        },
+        {
+            "name": "Floresta Esporte Clube",
+            "id": "br_3_9"
+        },
+        {
+            "name": "Guarani Futebol Clube",
+            "id": "br_3_10"
+        },
+        {
+            "name": "Associação Olímpica de Itabaiana",
+            "id": "br_3_11"
+        },
+        {
+            "name": "Ituano Futebol Clube[1]",
+            "id": "br_3_12"
+        },
+        {
+            "name": "Londrina Esporte Clube",
+            "id": "br_3_13"
+        },
+        {
+            "name": "Maringá Futebol Clube",
+            "id": "br_3_14"
+        },
+        {
+            "name": "Clube Náutico Capibaribe",
+            "id": "br_3_15"
+        },
+        {
+            "name": "Associação Atlética Ponte Preta",
+            "id": "br_3_16"
+        },
+        {
+            "name": "Retrô Futebol Clube Brasil",
+            "id": "br_3_17"
+        },
+        {
+            "name": "São Bernardo Futebol Clube Ltda.",
+            "id": "br_3_18"
+        },
+        {
+            "name": "Tombense Futebol Clube",
+            "id": "br_3_19"
+        },
+        {
+            "name": "Ypiranga Futebol Clube",
+            "id": "br_3_20"
+        }
+    ]
+}
