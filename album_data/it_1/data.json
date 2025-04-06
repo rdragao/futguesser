@@ -1,0 +1,85 @@
+{
+    "name": "Serie A",
+    "teams": [
+        {
+            "name": "Atalanta Bergamasca Calcio",
+            "id": "it_1_1"
+        },
+        {
+            "name": "Bologna Football Club 1909",
+            "id": "it_1_2"
+        },
+        {
+            "name": "Cagliari Calcio",
+            "id": "it_1_3"
+        },
+        {
+            "name": "Como 1907",
+            "id": "it_1_4"
+        },
+        {
+            "name": "Empoli Football Club",
+            "id": "it_1_5"
+        },
+        {
+            "name": "ACF Fiorentina",
+            "id": "it_1_6"
+        },
+        {
+            "name": "Genoa Cricket and Football Club",
+            "id": "it_1_7"
+        },
+        {
+            "name": "Football Club Internazionale Milano",
+            "id": "it_1_8"
+        },
+        {
+            "name": "Juventus Football Club",
+            "id": "it_1_9"
+        },
+        {
+            "name": "Società Sportiva Lazio",
+            "id": "it_1_10"
+        },
+        {
+            "name": "Unione Sportiva Lecce",
+            "id": "it_1_11"
+        },
+        {
+            "name": "Associazione Calcio Milan",
+            "id": "it_1_12"
+        },
+        {
+            "name": "Associazione Calcio Monza",
+            "id": "it_1_13"
+        },
+        {
+            "name": "Società Sportiva Calcio Napoli",
+            "id": "it_1_14"
+        },
+        {
+            "name": "Parma Calcio 1913",
+            "id": "it_1_15"
+        },
+        {
+            "name": "Associazione Sportiva Roma",
+            "id": "it_1_16"
+        },
+        {
+            "name": "Torino Football Club",
+            "id": "it_1_17"
+        },
+        {
+            "name": "Udinese Calcio",
+            "id": "it_1_18"
+        },
+        {
+            "name": "Venezia Football Club",
+            "id": "it_1_19"
+        },
+        {
+            "name": "Hellas Verona Football Club",
+            "id": "it_1_20"
+        }
+    ]
+}

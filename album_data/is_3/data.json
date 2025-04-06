@@ -1,0 +1,53 @@
+{
+    "name": "2. deild karla",
+    "teams": [
+        {
+            "name": "Knattspyrnufélagið Dalvík-Reynir",
+            "id": "is_3_1"
+        },
+        {
+            "name": "Íþróttafélagið Grótta",
+            "id": "is_3_2"
+        },
+        {
+            "name": "Knattspyrnufélagið Haukar",
+            "id": "is_3_3"
+        },
+        {
+            "name": "Íþróttafélagið Höttur",
+            "id": "is_3_4"
+        },
+        {
+            "name": "Knattspyrnufélagið Kári",
+            "id": "is_3_5"
+        },
+        {
+            "name": "Knattspyrnufélag Austfjarða",
+            "id": "is_3_6"
+        },
+        {
+            "name": "Knattspyrnufélag Garðabæjar",
+            "id": "is_3_7"
+        },
+        {
+            "name": "Ungmennafélagið Hvöt",
+            "id": "is_3_8"
+        },
+        {
+            "name": "Knattspyrnufélagið Víðir",
+            "id": "is_3_9"
+        },
+        {
+            "name": "Ungmennafélagið Víkingur",
+            "id": "is_3_10"
+        },
+        {
+            "name": "Knattspyrnufélagið Ægir",
+            "id": "is_3_11"
+        },
+        {
+            "name": "Ungmennafélagið Þróttur",
+            "id": "is_3_12"
+        }
+    ]
+}

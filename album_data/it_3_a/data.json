@@ -1,0 +1,85 @@
+{
+    "name": "Serie C - Girone A",
+    "teams": [
+        {
+            "name": "Unione Calcio AlbinoLeffe",
+            "id": "it_3_1"
+        },
+        {
+            "name": "Alcione Milano Società Sportiva",
+            "id": "it_3_2"
+        },
+        {
+            "name": "Football Club Arzignano Valchiampo",
+            "id": "it_3_3"
+        },
+        {
+            "name": "Atalanta Bergamasca Calcio U23",
+            "id": "it_3_4"
+        },
+        {
+            "name": "Calcio Caldiero Terme",
+            "id": "it_3_5"
+        },
+        {
+            "name": "Feralpisalò",
+            "id": "it_3_6"
+        },
+        {
+            "name": "Associazione Sportiva Giana Erminio",
+            "id": "it_3_7"
+        },
+        {
+            "name": "L.R. Vicenza",
+            "id": "it_3_8"
+        },
+        {
+            "name": "Calcio Lecco 1912",
+            "id": "it_3_9"
+        },
+        {
+            "name": "Football Club Lumezzane",
+            "id": "it_3_10"
+        },
+        {
+            "name": "Novara Football Club",
+            "id": "it_3_11"
+        },
+        {
+            "name": "Calcio Padova",
+            "id": "it_3_12"
+        },
+        {
+            "name": "Unione Sportiva Pergolettese 1932",
+            "id": "it_3_13"
+        },
+        {
+            "name": "Aurora Pro Patria 1919",
+            "id": "it_3_14"
+        },
+        {
+            "name": "Football Club Pro Vercelli 1892",
+            "id": "it_3_15"
+        },
+        {
+            "name": "Associazione Calcio Renate",
+            "id": "it_3_16"
+        },
+        {
+            "name": "Associazione Calcio Trento 1921",
+            "id": "it_3_17"
+        },
+        {
+            "name": "Unione Sportiva Triestina Calcio 1918",
+            "id": "it_3_18"
+        },
+        {
+            "name": "Union Clodiense Chioggia Football Club",
+            "id": "it_3_19"
+        },
+        {
+            "name": "Virtus Verona",
+            "id": "it_3_20"
+        }
+    ]
+}

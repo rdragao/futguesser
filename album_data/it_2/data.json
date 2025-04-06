@@ -1,0 +1,85 @@
+{
+    "name": "Serie B",
+    "teams": [
+        {
+            "name": "Società Sportiva Calcio Bari",
+            "id": "it_2_1"
+        },
+        {
+            "name": "Brescia Calcio",
+            "id": "it_2_2"
+        },
+        {
+            "name": "Carrarese Calcio 1908",
+            "id": "it_2_3"
+        },
+        {
+            "name": "Unione Sportiva Catanzaro 1929",
+            "id": "it_2_4"
+        },
+        {
+            "name": "Cesena Football Club",
+            "id": "it_2_5"
+        },
+        {
+            "name": "Associazione Sportiva Cittadella",
+            "id": "it_2_6"
+        },
+        {
+            "name": "Cosenza Calcio",
+            "id": "it_2_7"
+        },
+        {
+            "name": "Unione Sportiva Cremonese",
+            "id": "it_2_8"
+        },
+        {
+            "name": "Frosinone Calcio",
+            "id": "it_2_9"
+        },
+        {
+            "name": "Società Sportiva Juve Stabia",
+            "id": "it_2_10"
+        },
+        {
+            "name": "Mantova 1911",
+            "id": "it_2_11"
+        },
+        {
+            "name": "Modena Football Club 2018",
+            "id": "it_2_12"
+        },
+        {
+            "name": "Palermo Football Club",
+            "id": "it_2_13"
+        },
+        {
+            "name": "Pisa Sporting Club",
+            "id": "it_2_14"
+        },
+        {
+            "name": "Associazione Calcio Reggiana 1919",
+            "id": "it_2_15"
+        },
+        {
+            "name": "Unione Sportiva Salernitana 1919",
+            "id": "it_2_16"
+        },
+        {
+            "name": "Unione Calcio Sampdoria",
+            "id": "it_2_17"
+        },
+        {
+            "name": "Unione Sportiva Sassuolo Calcio",
+            "id": "it_2_18"
+        },
+        {
+            "name": "Spezia Calcio",
+            "id": "it_2_19"
+        },
+        {
+            "name": "Fussball Club Südtirol",
+            "id": "it_2_20"
+        }
+    ]
+}
