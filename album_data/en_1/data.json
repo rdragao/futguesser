@@ -1,0 +1,85 @@
+{
+    "name": "Premier League",
+    "teams": [
+        {
+            "name": "Arsenal Football Club",
+            "id": "en_1_1"
+        },
+        {
+            "name": "Aston Villa Football Club",
+            "id": "en_1_2"
+        },
+        {
+            "name": "Athletic Football Club Bournemouth",
+            "id": "en_1_3"
+        },
+        {
+            "name": "Brentford Football Club",
+            "id": "en_1_4"
+        },
+        {
+            "name": "Brighton & Hove Albion Football Club",
+            "id": "en_1_5"
+        },
+        {
+            "name": "Chelsea Football Club",
+            "id": "en_1_6"
+        },
+        {
+            "name": "Crystal Palace Football Club",
+            "id": "en_1_7"
+        },
+        {
+            "name": "Everton Football Club",
+            "id": "en_1_8"
+        },
+        {
+            "name": "Fulham Football Club",
+            "id": "en_1_9"
+        },
+        {
+            "name": "Ipswich Town Football Club",
+            "id": "en_1_10"
+        },
+        {
+            "name": "Leicester City Football Club",
+            "id": "en_1_11"
+        },
+        {
+            "name": "Liverpool Football Club",
+            "id": "en_1_12"
+        },
+        {
+            "name": "Manchester City Football Club",
+            "id": "en_1_13"
+        },
+        {
+            "name": "Manchester United Football Club",
+            "id": "en_1_14"
+        },
+        {
+            "name": "Newcastle United Football Club",
+            "id": "en_1_15"
+        },
+        {
+            "name": "Nottingham Forest Football Club",
+            "id": "en_1_16"
+        },
+        {
+            "name": "Southampton Football Club",
+            "id": "en_1_17"
+        },
+        {
+            "name": "Tottenham Hotspur Football Club",
+            "id": "en_1_18"
+        },
+        {
+            "name": "West Ham United Football Club",
+            "id": "en_1_19"
+        },
+        {
+            "name": "Wolverhampton Wanderers Football Club",
+            "id": "en_1_20"
+        }
+    ]
+}

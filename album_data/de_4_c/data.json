@@ -1,0 +1,77 @@
+{
+    "name": "Regionalliga West",
+    "teams": [
+        {
+            "name": "Meidericher Spielverein 02 e.V. Duisburg",
+            "id": "de_4_37"
+        },
+        {
+            "name": "Sport-Club Rot-Weiß Oberhausen e.V.",
+            "id": "de_4_38"
+        },
+        {
+            "name": "Borussia VfL 1900 Mönchengladbach II e.V.",
+            "id": "de_4_39"
+        },
+        {
+            "name": "Verein für Laufspiele SportfreundeLotte e.V. von 1929",
+            "id": "de_4_40"
+        },
+        {
+            "name": "Sport-Club Fortuna Köln e.V.",
+            "id": "de_4_41"
+        },
+        {
+            "name": "Sportverein Rödinghausen e.V.",
+            "id": "de_4_42"
+        },
+        {
+            "name": "1. Fußball-Club Köln II 01-07 e.V.",
+            "id": "de_4_43"
+        },
+        {
+            "name": "Sport-Club Paderborn 07 e.V.",
+            "id": "de_4_44"
+        },
+        {
+            "name": "1. Fußball-Club Düren e.V.",
+            "id": "de_4_45"
+        },
+        {
+            "name": "Fußball-Club Gütersloh e.V.",
+            "id": "de_4_46"
+        },
+        {
+            "name": "Düsseldorfer Turn- und SportvereinFortuna 1895 e.V.",
+            "id": "de_4_47"
+        },
+        {
+            "name": "1. FC Bocholt",
+            "id": "de_4_48"
+        },
+        {
+            "name": "Wuppertaler Sport-Verein e.V.",
+            "id": "de_4_49"
+        },
+        {
+            "name": "Krefelder FußballclubUerdingen 05 e.V.",
+            "id": "de_4_50"
+        },
+        {
+            "name": "Sportverein Eintracht Hohkeppel e.V.",
+            "id": "de_4_51"
+        },
+        {
+            "name": "Fußballclub Gelsenkirchen-Schalke 04 e.V.",
+            "id": "de_4_52"
+        },
+        {
+            "name": "SC Wiedenbrück",
+            "id": "de_4_53"
+        },
+        {
+            "name": "Türkspor Dortmund 2000 e.V.",
+            "id": "de_4_54"
+        }
+    ]
+}

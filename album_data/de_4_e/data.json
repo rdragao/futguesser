@@ -1,0 +1,77 @@
+{
+    "name": "Regionalliga Bayern",
+    "teams": [
+        {
+            "name": "1. Fussball-Club Schweinfurt 1905, Verein für Leibesübungen e.V.",
+            "id": "de_4_73"
+        },
+        {
+            "name": "FC Bayern München II",
+            "id": "de_4_74"
+        },
+        {
+            "name": "Spielvereinigung Oberfranken Bayreuth 1921 e.V.",
+            "id": "de_4_75"
+        },
+        {
+            "name": "Fußballverein Illertissen e.V.",
+            "id": "de_4_76"
+        },
+        {
+            "name": "Fußball-Club Würzburger Kickers e.V.",
+            "id": "de_4_77"
+        },
+        {
+            "name": "Turn- und Sportverein Buchbach e.V.",
+            "id": "de_4_78"
+        },
+        {
+            "name": "Spielvereinigung Greuther Fürth e.V.",
+            "id": "de_4_79"
+        },
+        {
+            "name": "Sportverein Wacker Burghausen",
+            "id": "de_4_80"
+        },
+        {
+            "name": "Turn- und Sportverein Aubstadt 1921 e.V.",
+            "id": "de_4_81"
+        },
+        {
+            "name": "1. Fußball-Club Nürnberg Verein für Leibesübungen e.V.",
+            "id": "de_4_82"
+        },
+        {
+            "name": "Sportverein Viktoria 1901 e.V. Aschaffenburg",
+            "id": "de_4_83"
+        },
+        {
+            "name": "Fußball-Club Augsburg 1907 e. V II",
+            "id": "de_4_84"
+        },
+        {
+            "name": "Turn- und Sportverein 1847 Schwaben Augsburg",
+            "id": "de_4_85"
+        },
+        {
+            "name": "Spielvereinigung Ansbach 1909 e.V.",
+            "id": "de_4_86"
+        },
+        {
+            "name": "Spielvereinigung Hankofen-Hailing 1968 e.V.",
+            "id": "de_4_87"
+        },
+        {
+            "name": "Deutsche Jugendkraft Vilzing 1967 e.V.",
+            "id": "de_4_88"
+        },
+        {
+            "name": "Fußball Club Eintracht Bamberg 2010",
+            "id": "de_4_89"
+        },
+        {
+            "name": "Türkgücü München e.V.",
+            "id": "de_4_90"
+        }
+    ]
+}

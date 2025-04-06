@@ -1,0 +1,77 @@
+{
+    "name": "Regionalliga Südwest",
+    "teams": [
+        {
+            "name": "Turn- und Sportgemeinschaft1899 Hoffenheim II e.V.",
+            "id": "de_4_55"
+        },
+        {
+            "name": "Offenbacher Fußball-Club Kickers 1901 e.V.",
+            "id": "de_4_56"
+        },
+        {
+            "name": "Fußballsportverein Frankfurt 1899 e.V.",
+            "id": "de_4_57"
+        },
+        {
+            "name": "Sportverein Stuttgarter Kickers e.V.",
+            "id": "de_4_58"
+        },
+        {
+            "name": "Sport- und Gesangsverein Freiberg Fußball e.V.",
+            "id": "de_4_59"
+        },
+        {
+            "name": "Sport-Club Freiburg II e.V.",
+            "id": "de_4_60"
+        },
+        {
+            "name": "Turn- und Sportverein Steinbach 1921 e.V.",
+            "id": "de_4_61"
+        },
+        {
+            "name": "Sportgemeinschaft Barockstadt Fulda-Lehnerz e.V.",
+            "id": "de_4_62"
+        },
+        {
+            "name": "SV Eintracht-Trier 05 e.V.",
+            "id": "de_4_63"
+        },
+        {
+            "name": "Fußball-Club 08 Homburg-Saar e.V.",
+            "id": "de_4_64"
+        },
+        {
+            "name": "1. Fußball- und Sportverein Mainz II 05 e.V.",
+            "id": "de_4_65"
+        },
+        {
+            "name": "Fußball-Club Astoria Walldorf e.V.",
+            "id": "de_4_66"
+        },
+        {
+            "name": "Bahlinger Sport Club",
+            "id": "de_4_67"
+        },
+        {
+            "name": "1. Göppinger Sportverein 1895 e.V.",
+            "id": "de_4_68"
+        },
+        {
+            "name": "Eintracht Frankfurt II e.V.",
+            "id": "de_4_69"
+        },
+        {
+            "name": "FC Gießen 1927 Teutonia-1900 VfB e.V.",
+            "id": "de_4_70"
+        },
+        {
+            "name": "Kasseler Sport-Verein Hessen Kassel e.V.",
+            "id": "de_4_71"
+        },
+        {
+            "name": "Fußball-Club 1908 Villingen e.V.",
+            "id": "de_4_72"
+        }
+    ]
+}
