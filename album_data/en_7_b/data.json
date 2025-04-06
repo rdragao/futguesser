@@ -1,0 +1,93 @@
+{
+    "name": "Isthmian League Premier Division",
+    "teams": [
+        {
+            "name": "Billericay Town Football Club",
+            "id": "en_7_23"
+        },
+        {
+            "name": "Bognor Regis Town Football Club",
+            "id": "en_7_24"
+        },
+        {
+            "name": "Bowers & Pitsea Football Club",
+            "id": "en_7_25"
+        },
+        {
+            "name": "Canvey Island Football Club",
+            "id": "en_7_26"
+        },
+        {
+            "name": "Carshalton Athletic Football Club",
+            "id": "en_7_27"
+        },
+        {
+            "name": "Chatham Town Football Club",
+            "id": "en_7_28"
+        },
+        {
+            "name": "Cheshunt Football Club",
+            "id": "en_7_29"
+        },
+        {
+            "name": "Chichester City Football Club",
+            "id": "en_7_30"
+        },
+        {
+            "name": "Cray Valley Paper Mills Football Club",
+            "id": "en_7_31"
+        },
+        {
+            "name": "Cray Wanderers Football Club",
+            "id": "en_7_32"
+        },
+        {
+            "name": "Dartford Football Club",
+            "id": "en_7_33"
+        },
+        {
+            "name": "Dover Athletic Football Club",
+            "id": "en_7_34"
+        },
+        {
+            "name": "Dulwich Hamlet Football Club",
+            "id": "en_7_35"
+        },
+        {
+            "name": "Folkestone Invicta Football Club",
+            "id": "en_7_36"
+        },
+        {
+            "name": "Hashtag United Football Club",
+            "id": "en_7_37"
+        },
+        {
+            "name": "Hastings United Football Club",
+            "id": "en_7_38"
+        },
+        {
+            "name": "Hendon Football Club",
+            "id": "en_7_39"
+        },
+        {
+            "name": "Horsham Football Club",
+            "id": "en_7_40"
+        },
+        {
+            "name": "Lewes Football Club",
+            "id": "en_7_41"
+        },
+        {
+            "name": "Potters Bar Town Football Club",
+            "id": "en_7_42"
+        },
+        {
+            "name": "Whitehawk Football Club",
+            "id": "en_7_43"
+        },
+        {
+            "name": "Wingate & Finchley Football Club",
+            "id": "en_7_44"
+        }
+    ]
+}

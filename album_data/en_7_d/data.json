@@ -1,0 +1,73 @@
+{
+    "name": "Southern Football League Premier South",
+    "teams": [
+        {
+            "name": "Frome Town Football Club",
+            "id": "en_7_72"
+        },
+        {
+            "name": "Gloucester City Association Football Club",
+            "id": "en_7_73"
+        },
+        {
+            "name": "Gosport Borough Football Club",
+            "id": "en_7_74"
+        },
+        {
+            "name": "Hanwell Town Football Club",
+            "id": "en_7_75"
+        },
+        {
+            "name": "Havant & Waterlooville Football Club",
+            "id": "en_7_76"
+        },
+        {
+            "name": "Hungerford Town Football Club",
+            "id": "en_7_77"
+        },
+        {
+            "name": "Marlow Football Club",
+            "id": "en_7_78"
+        },
+        {
+            "name": "Merthyr Town Football Club",
+            "id": "en_7_79"
+        },
+        {
+            "name": "Plymouth Parkway Football Club",
+            "id": "en_7_80"
+        },
+        {
+            "name": "Poole Town Football Club",
+            "id": "en_7_81"
+        },
+        {
+            "name": "Sholing Football Club",
+            "id": "en_7_82"
+        },
+        {
+            "name": "Swindon Supermarine Football Club",
+            "id": "en_7_83"
+        },
+        {
+            "name": "Taunton Town Football Club",
+            "id": "en_7_84"
+        },
+        {
+            "name": "Tiverton Town Football Club",
+            "id": "en_7_85"
+        },
+        {
+            "name": "Walton & Hersham Football Club",
+            "id": "en_7_86"
+        },
+        {
+            "name": "Wimborne Town Football Club",
+            "id": "en_7_87"
+        },
+        {
+            "name": "Winchester City Football Club",
+            "id": "en_7_88"
+        }
+    ]
+}

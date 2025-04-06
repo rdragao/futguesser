@@ -1,0 +1,93 @@
+{
+    "name": "Southern Football League Premier Central",
+    "teams": [
+        {
+            "name": "Amalgamated Football Club Sudbury",
+            "id": "en_7_45"
+        },
+        {
+            "name": "AFC Telford United",
+            "id": "en_7_46"
+        },
+        {
+            "name": "Alvechurch Football Club",
+            "id": "en_7_47"
+        },
+        {
+            "name": "Banbury United Football Club ",
+            "id": "en_7_48"
+        },
+        {
+            "name": "Barwell Football Club",
+            "id": "en_7_49"
+        },
+        {
+            "name": "Bedford Town Football Club",
+            "id": "en_7_50"
+        },
+        {
+            "name": "Biggleswade Town Football Club",
+            "id": "en_7_51"
+        },
+        {
+            "name": "Bishop's Stortford Football Club",
+            "id": "en_7_52"
+        },
+        {
+            "name": "Bromsgrove Sporting Football Club",
+            "id": "en_7_53"
+        },
+        {
+            "name": "Halesowen Town Football Club",
+            "id": "en_7_54"
+        },
+        {
+            "name": "Harborough Town Football Club",
+            "id": "en_7_55"
+        },
+        {
+            "name": "Hitchin Town Football Club",
+            "id": "en_7_56"
+        },
+        {
+            "name": "Kettering Town Football Club",
+            "id": "en_7_57"
+        },
+        {
+            "name": "Leiston Football Club",
+            "id": "en_7_58"
+        },
+        {
+            "name": "Lowestoft Town Football Club",
+            "id": "en_7_59"
+        },
+        {
+            "name": "Redditch United Football Club",
+            "id": "en_7_60"
+        },
+        {
+            "name": "Royston Town Football Club",
+            "id": "en_7_61"
+        },
+        {
+            "name": "Spalding United Football Club",
+            "id": "en_7_62"
+        },
+        {
+            "name": "Stamford Association Football Club",
+            "id": "en_7_63"
+        },
+        {
+            "name": "St. Ives Town Football Club",
+            "id": "en_7_64"
+        },
+        {
+            "name": "Stourbridge Football Club",
+            "id": "en_7_65"
+        },
+        {
+            "name": "Stratford Town Football Club",
+            "id": "en_7_66"
+        }
+    ]
+}

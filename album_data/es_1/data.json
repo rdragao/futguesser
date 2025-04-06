@@ -1,0 +1,85 @@
+{
+    "name": "La Liga",
+    "teams": [
+        {
+            "name": "Deportivo Alavés SAD",
+            "id": "es_1_1"
+        },
+        {
+            "name": "Athletic Club",
+            "id": "es_1_2"
+        },
+        {
+            "name": "Club Atlético de Madrid SAD",
+            "id": "es_1_3"
+        },
+        {
+            "name": "Futbol Club Barcelona",
+            "id": "es_1_4"
+        },
+        {
+            "name": "Real Club Celta de Vigo SAD",
+            "id": "es_1_5"
+        },
+        {
+            "name": "Reial Club DeportiuEspanyol de Barcelona SAD",
+            "id": "es_1_6"
+        },
+        {
+            "name": "Getafe Club de Fútbol SAD",
+            "id": "es_1_7"
+        },
+        {
+            "name": "Girona Futbol Club SAD",
+            "id": "es_1_8"
+        },
+        {
+            "name": "Unión Deportiva Las Palmas SAD",
+            "id": "es_1_9"
+        },
+        {
+            "name": "Club Deportivo Leganés SAD",
+            "id": "es_1_10"
+        },
+        {
+            "name": "Real Club Deportivo Mallorca SAD",
+            "id": "es_1_11"
+        },
+        {
+            "name": "Club Atlético Osasuna",
+            "id": "es_1_12"
+        },
+        {
+            "name": "Rayo Vallecano de Madrid SAD",
+            "id": "es_1_13"
+        },
+        {
+            "name": "Real Betis Balompié SAD",
+            "id": "es_1_14"
+        },
+        {
+            "name": "Real Madrid Club de Fútbol",
+            "id": "es_1_15"
+        },
+        {
+            "name": "Real Sociedad de Fútbol SAD",
+            "id": "es_1_16"
+        },
+        {
+            "name": "Sevilla Fútbol Club SAD",
+            "id": "es_1_17"
+        },
+        {
+            "name": "Valencia Club de Fútbol SAD",
+            "id": "es_1_18"
+        },
+        {
+            "name": "Real Valladolid Club de Fútbol SAD",
+            "id": "es_1_19"
+        },
+        {
+            "name": "Villarreal Club de FútbolSAD",
+            "id": "es_1_20"
+        }
+    ]
+}
