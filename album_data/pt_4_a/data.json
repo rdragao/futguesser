@@ -1,0 +1,61 @@
+{
+    "name": "Campeonato de Portugal - Grupo A",
+    "teams": [
+        {
+            "name": "Clube Atlético dos Arcos",
+            "id": "pt_4_1"
+        },
+        {
+            "name": "Grupo Desportivo de Bragança",
+            "id": "pt_4_2"
+        },
+        {
+            "name": "Brito Sport Clube",
+            "id": "pt_4_3"
+        },
+        {
+            "name": "Dumiense-Colégio João Paulo II Futebol",
+            "id": "pt_4_4"
+        },
+        {
+            "name": "Grupo Desportivo de Joane",
+            "id": "pt_4_5"
+        },
+        {
+            "name": "Associação Desportiva Os Limianos",
+            "id": "pt_4_6"
+        },
+        {
+            "name": "Grupo Desportivo Recreativo e Cultural Os Sandinenses",
+            "id": "pt_4_7"
+        },
+        {
+            "name": "União Sport Clube Paredes",
+            "id": "pt_4_8"
+        },
+        {
+            "name": "Pevidém Sport Club",
+            "id": "pt_4_9"
+        },
+        {
+            "name": "Rebordosa Atlético Clube",
+            "id": "pt_4_10"
+        },
+        {
+            "name": "Futebol Clube Tirsense",
+            "id": "pt_4_11"
+        },
+        {
+            "name": "Sport Clube Vianense",
+            "id": "pt_4_12"
+        },
+        {
+            "name": "Sport Clube Vila Real",
+            "id": "pt_4_13"
+        },
+        {
+            "name": "Vitória Sport Clube B",
+            "id": "pt_4_14"
+        }
+    ]
+}

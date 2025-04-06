@@ -1,0 +1,85 @@
+{
+    "name": "Liga 3",
+    "teams": [
+        {
+            "name": "Sociedade União 1°Dezembro",
+            "id": "pt_3_1"
+        },
+        {
+            "name": "Associação Académicade Coimbra – Organismo Autónomo de Futebol",
+            "id": "pt_3_2"
+        },
+        {
+            "name": "Amarante Futebol Clube",
+            "id": "pt_3_3"
+        },
+        {
+            "name": "Anadia Futebol Clube",
+            "id": "pt_3_4"
+        },
+        {
+            "name": "Atlético Clube de Portugal",
+            "id": "pt_3_5"
+        },
+        {
+            "name": "Clube de Futebol Os Belenenses",
+            "id": "pt_3_6"
+        },
+        {
+            "name": "Sporting Clube de Braga B",
+            "id": "pt_3_7"
+        },
+        {
+            "name": "Caldas Sport Clube",
+            "id": "pt_3_8"
+        },
+        {
+            "name": "Associação Desportiva de Fafe",
+            "id": "pt_3_9"
+        },
+        {
+            "name": "Sport Clube Lusitânia",
+            "id": "pt_3_10"
+        },
+        {
+            "name": "Lusitânia Futebol Clube",
+            "id": "pt_3_11"
+        },
+        {
+            "name": "Futebol Clube de Oliveira do Hospital",
+            "id": "pt_3_12"
+        },
+        {
+            "name": "Associação Desportiva Sanjoanense",
+            "id": "pt_3_13"
+        },
+        {
+            "name": "Sporting Clube São João de Ver",
+            "id": "pt_3_14"
+        },
+        {
+            "name": "Sporting Clube da Covilhã",
+            "id": "pt_3_15"
+        },
+        {
+            "name": "Sporting Clube de Portugal B",
+            "id": "pt_3_16"
+        },
+        {
+            "name": "Clube Desportivo Trofense",
+            "id": "pt_3_17"
+        },
+        {
+            "name": "União Desportiva de Santarém",
+            "id": "pt_3_18"
+        },
+        {
+            "name": "Varzim Sport Club",
+            "id": "pt_3_19"
+        },
+        {
+            "name": "Vilaverdense Futebol Clube",
+            "id": "pt_3_20"
+        }
+    ]
+}

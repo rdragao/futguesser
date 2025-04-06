@@ -1,0 +1,61 @@
+{
+    "name": "Campeonato de Portugal - Grupo B",
+    "teams": [
+        {
+            "name": "Futebol Clube de Alpendorada",
+            "id": "pt_4_15"
+        },
+        {
+            "name": "Sport Clube Beira-Mar",
+            "id": "pt_4_16"
+        },
+        {
+            "name": "Associação Desportiva da Camacha",
+            "id": "pt_4_17"
+        },
+        {
+            "name": "Clube Desportivo de Cinfães",
+            "id": "pt_4_18"
+        },
+        {
+            "name": "Sporting Clube de Coimbrões",
+            "id": "pt_4_19"
+        },
+        {
+            "name": "Gondomar Sport Clube",
+            "id": "pt_4_20"
+        },
+        {
+            "name": "Guarda Futebol Clube",
+            "id": "pt_4_21"
+        },
+        {
+            "name": "Leça Futebol Clube",
+            "id": "pt_4_22"
+        },
+        {
+            "name": "Associação Desportiva de Machico",
+            "id": "pt_4_23"
+        },
+        {
+            "name": "Associação Desportiva de Marco de Canaveses 09",
+            "id": "pt_4_24"
+        },
+        {
+            "name": "Club Sport Marítimo B",
+            "id": "pt_4_25"
+        },
+        {
+            "name": "Sport Clube da Régua",
+            "id": "pt_4_26"
+        },
+        {
+            "name": "Sport Comércio e Salgueiros",
+            "id": "pt_4_27"
+        },
+        {
+            "name": "Clube de Futebol União de Lamas",
+            "id": "pt_4_28"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Scottish Premiership",
+    "teams": [
+        {
+            "name": "Aberdeen Football Club",
+            "id": "scot_1_1"
+        },
+        {
+            "name": "The Celtic Football Club",
+            "id": "scot_1_2"
+        },
+        {
+            "name": "Dundee Football Club",
+            "id": "scot_1_3"
+        },
+        {
+            "name": "Dundee United Football Club",
+            "id": "scot_1_4"
+        },
+        {
+            "name": "Heart of Midlothian Football Club",
+            "id": "scot_1_5"
+        },
+        {
+            "name": "Hibernian Football Club",
+            "id": "scot_1_6"
+        },
+        {
+            "name": "Kilmarnock Football Club",
+            "id": "scot_1_7"
+        },
+        {
+            "name": "Motherwell Football Club",
+            "id": "scot_1_8"
+        },
+        {
+            "name": "Rangers Football Club",
+            "id": "scot_1_9"
+        },
+        {
+            "name": "Ross County Football Club",
+            "id": "scot_1_10"
+        },
+        {
+            "name": "St Johnstone Football Club",
+            "id": "scot_1_11"
+        },
+        {
+            "name": "St Mirren Football Club",
+            "id": "scot_1_12"
+        }
+    ]
+}

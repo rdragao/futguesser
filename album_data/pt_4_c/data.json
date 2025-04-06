@@ -1,0 +1,61 @@
+{
+    "name": "Campeonato de Portugal - Grupo C",
+    "teams": [
+        {
+            "name": "Clube Desportivo Alcains",
+            "id": "pt_4_29"
+        },
+        {
+            "name": "Futebol Clube de Alverca",
+            "id": "pt_4_30"
+        },
+        {
+            "name": "Sport Arronches e Benfica",
+            "id": "pt_4_31"
+        },
+        {
+            "name": "Sport Benfica e Castelo Branco",
+            "id": "pt_4_32"
+        },
+        {
+            "name": "Centro Desportivo de Fátima",
+            "id": "pt_4_33"
+        },
+        {
+            "name": "Clube Futebol Os Marialvas",
+            "id": "pt_4_34"
+        },
+        {
+            "name": "Atlético Clube Marinhense",
+            "id": "pt_4_35"
+        },
+        {
+            "name": "Mortágua Futebol Clube",
+            "id": "pt_4_36"
+        },
+        {
+            "name": "O Elvas Clube Alentejano de Desportos",
+            "id": "pt_4_37"
+        },
+        {
+            "name": "Grupo Desportivo de Peniche",
+            "id": "pt_4_38"
+        },
+        {
+            "name": "Clube Atlético Pero Pinheiro",
+            "id": "pt_4_39"
+        },
+        {
+            "name": "Sertanense Futebol Clube",
+            "id": "pt_4_40"
+        },
+        {
+            "name": "Sporting Clube de Pombal",
+            "id": "pt_4_41"
+        },
+        {
+            "name": "Clube de Futebol União de Coimbra",
+            "id": "pt_4_42"
+        }
+    ]
+}

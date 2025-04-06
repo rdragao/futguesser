@@ -1,0 +1,61 @@
+{
+    "name": "Campeonato de Portugal - Grupo D",
+    "teams": [
+        {
+            "name": "Amora Futebol Clube",
+            "id": "pt_4_43"
+        },
+        {
+            "name": "Futebol Clube Barreirense",
+            "id": "pt_4_44"
+        },
+        {
+            "name": "União Futebol Comércio e Indústria",
+            "id": "pt_4_45"
+        },
+        {
+            "name": "Club Football Estrela da Amadora SAD",
+            "id": "pt_4_46"
+        },
+        {
+            "name": "Estrela Futebol Clube de Vendas Novas",
+            "id": "pt_4_47"
+        },
+        {
+            "name": "Grupo Desportivo Fabril",
+            "id": "pt_4_48"
+        },
+        {
+            "name": "Grupo Desportivo da Lagoa",
+            "id": "pt_4_49"
+        },
+        {
+            "name": "Louletano Desportos Clube",
+            "id": "pt_4_50"
+        },
+        {
+            "name": "Lusitano Ginásio Clube",
+            "id": "pt_4_51"
+        },
+        {
+            "name": "Lusitano Ginásio Clube Moncarapachense",
+            "id": "pt_4_52"
+        },
+        {
+            "name": "Moura Atldético Clube",
+            "id": "pt_4_53"
+        },
+        {
+            "name": "Clube Operário Desportivo",
+            "id": "pt_4_54"
+        },
+        {
+            "name": "Futebol Clube de Serpa",
+            "id": "pt_4_55"
+        },
+        {
+            "name": "Sport União Sintrense",
+            "id": "pt_4_56"
+        }
+    ]
+}
