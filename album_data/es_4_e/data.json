@@ -1,0 +1,77 @@
+{
+    "name": "Segunda Federación Group 5",
+    "teams": [
+        {
+            "name": "Club Deportivo Atlético Paso",
+            "id": "es_4_73"
+        },
+        {
+            "name": "Club Polideportivo Cacereño SAD",
+            "id": "es_4_74"
+        },
+        {
+            "name": "Unión Balompédica Conquense",
+            "id": "es_4_75"
+        },
+        {
+            "name": "Club Deportivo Coria",
+            "id": "es_4_76"
+        },
+        {
+            "name": "Getafe Club de Fútbol B SAD",
+            "id": "es_4_77"
+        },
+        {
+            "name": "Club Deportivo Guadalajara SAD",
+            "id": "es_4_78"
+        },
+        {
+            "name": "Club Deportivo Illescas",
+            "id": "es_4_79"
+        },
+        {
+            "name": "Unión Deportiva Melilla",
+            "id": "es_4_80"
+        },
+        {
+            "name": "Club DeportivoColonia Moscardó",
+            "id": "es_4_81"
+        },
+        {
+            "name": "Club Deportivo Móstoles URJC",
+            "id": "es_4_82"
+        },
+        {
+            "name": "Club Deportivo Artístico Navalcarnero",
+            "id": "es_4_83"
+        },
+        {
+            "name": "Club de FútbolRayo Majadahonda",
+            "id": "es_4_84"
+        },
+        {
+            "name": "Real Madrid Club de Fútbol C",
+            "id": "es_4_85"
+        },
+        {
+            "name": "Unión DeportivaSan Sebastián de los Reyes",
+            "id": "es_4_86"
+        },
+        {
+            "name": "Club de Fútbol Talavera de la Reina",
+            "id": "es_4_87"
+        },
+        {
+            "name": "Club Deportivo Tenerife SAD B",
+            "id": "es_4_88"
+        },
+        {
+            "name": "Agrupación Deportiva Unión Adarve",
+            "id": "es_4_89"
+        },
+        {
+            "name": "Club Deportivo Unión Sur Yaiza",
+            "id": "es_4_90"
+        }
+    ]
+}

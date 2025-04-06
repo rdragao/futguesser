@@ -1,0 +1,77 @@
+{
+    "name": "Segunda Federación Group 4",
+    "teams": [
+        {
+            "name": "Águilas Fútbol Club",
+            "id": "es_4_55"
+        },
+        {
+            "name": "Unión Deportiva Almería SAD B",
+            "id": "es_4_56"
+        },
+        {
+            "name": "Club Atlético Antoniano",
+            "id": "es_4_57"
+        },
+        {
+            "name": "Cádiz Club de Fútbol SAD Mirandilla",
+            "id": "es_4_58"
+        },
+        {
+            "name": "Club Deportivo Don Benito",
+            "id": "es_4_59"
+        },
+        {
+            "name": "Club Deportivo Estepona Fútbol Senior",
+            "id": "es_4_60"
+        },
+        {
+            "name": "Juventud de Torremolinos Club de Fútbol",
+            "id": "es_4_61"
+        },
+        {
+            "name": "Fútbol Club La Unión Atlético",
+            "id": "es_4_62"
+        },
+        {
+            "name": "Linares Deportivo SAD",
+            "id": "es_4_63"
+        },
+        {
+            "name": "Real Balompédica Linense",
+            "id": "es_4_64"
+        },
+        {
+            "name": "Club Deportiva Minera",
+            "id": "es_4_65"
+        },
+        {
+            "name": "Orihuela Club de Fútbol",
+            "id": "es_4_66"
+        },
+        {
+            "name": "Club Recreativo Granada B",
+            "id": "es_4_67"
+        },
+        {
+            "name": "San Fernando Club Deportivo Isleño",
+            "id": "es_4_68"
+        },
+        {
+            "name": "UCAM Universidad Católica de Murcia Club de Fútbol",
+            "id": "es_4_69"
+        },
+        {
+            "name": "Club de Fútbol Villanovense",
+            "id": "es_4_70"
+        },
+        {
+            "name": "Xerez Club Deportivo SAD",
+            "id": "es_4_71"
+        },
+        {
+            "name": "Xerez Deportivo Fútbol Club",
+            "id": "es_4_72"
+        }
+    ]
+}

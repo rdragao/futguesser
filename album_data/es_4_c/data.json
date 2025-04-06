@@ -1,0 +1,77 @@
+{
+    "name": "Segunda Federación Group 3",
+    "teams": [
+        {
+            "name": "Unión Deportiva Alzira",
+            "id": "es_4_37"
+        },
+        {
+            "name": "Club Esportiu Andratx",
+            "id": "es_4_38"
+        },
+        {
+            "name": "Club Deportivo Atlético Baleares SAD",
+            "id": "es_4_39"
+        },
+        {
+            "name": "CF Badalona Futur SAD",
+            "id": "es_4_40"
+        },
+        {
+            "name": "Unió Esportiva Cornellà SAD",
+            "id": "es_4_41"
+        },
+        {
+            "name": "Elche Ilicitano Club de Fútbol",
+            "id": "es_4_42"
+        },
+        {
+            "name": "Reial Club Deportiu Espanyolde Barcelona SAD B",
+            "id": "es_4_43"
+        },
+        {
+            "name": "Club Esportiu Europa",
+            "id": "es_4_44"
+        },
+        {
+            "name": "Club Deportivo Ibiza Islas Pitiusas",
+            "id": "es_4_45"
+        },
+        {
+            "name": "Lleida Club de Futbol",
+            "id": "es_4_46"
+        },
+        {
+            "name": "Real Club Deportivo Mallorca SAD B",
+            "id": "es_4_47"
+        },
+        {
+            "name": "Unió Esportiva Olot SAD",
+            "id": "es_4_48"
+        },
+        {
+            "name": "Sociedad Cultural RecreativaPeña Deportiva Santa Eulalia",
+            "id": "es_4_49"
+        },
+        {
+            "name": "Centre d'EsportsSabadell Futbol Club SAD",
+            "id": "es_4_50"
+        },
+        {
+            "name": "Unió Esportiva Sant Andreu",
+            "id": "es_4_51"
+        },
+        {
+            "name": "Terrassa Futbol Club",
+            "id": "es_4_52"
+        },
+        {
+            "name": "Torrent Club de Fútbol",
+            "id": "es_4_53"
+        },
+        {
+            "name": "Valencia Club de Fútbol Mestalla",
+            "id": "es_4_54"
+        }
+    ]
+}

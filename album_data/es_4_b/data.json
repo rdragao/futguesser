@@ -1,0 +1,77 @@
+{
+    "name": "Segunda Federación Group 2",
+    "teams": [
+        {
+            "name": "Deportivo Alavés B SAD",
+            "id": "es_4_19"
+        },
+        {
+            "name": "Club Deportivo Alfaro",
+            "id": "es_4_20"
+        },
+        {
+            "name": "Club Deportivo Anguiano",
+            "id": "es_4_21"
+        },
+        {
+            "name": "Arenas Club de Getxo",
+            "id": "es_4_22"
+        },
+        {
+            "name": "Unión Deportiva Barbastro",
+            "id": "es_4_23"
+        },
+        {
+            "name": "Club Deportivo Calahorra",
+            "id": "es_4_24"
+        },
+        {
+            "name": "Real Zaragoza Deportivo Aragón",
+            "id": "es_4_25"
+        },
+        {
+            "name": "Sociedad Deportiva Eibar B SAD",
+            "id": "es_4_26"
+        },
+        {
+            "name": "Sociedad Deportiva Ejea",
+            "id": "es_4_27"
+        },
+        {
+            "name": "Sociedad Deportiva Gernika Club",
+            "id": "es_4_28"
+        },
+        {
+            "name": "Club Deportivo Izarra",
+            "id": "es_4_29"
+        },
+        {
+            "name": "Sociedad Deportiva Logroñés",
+            "id": "es_4_30"
+        },
+        {
+            "name": "Unión Deportiva Logroñés SAD",
+            "id": "es_4_31"
+        },
+        {
+            "name": "Real Sociedad de Fútbol SAD C",
+            "id": "es_4_32"
+        },
+        {
+            "name": "Club Deportivo Subiza",
+            "id": "es_4_33"
+        },
+        {
+            "name": "Club Deportivo Teruel",
+            "id": "es_4_34"
+        },
+        {
+            "name": "Club Deportivo Tudelano",
+            "id": "es_4_35"
+        },
+        {
+            "name": "Utebo Fútbol Club",
+            "id": "es_4_36"
+        }
+    ]
+}
