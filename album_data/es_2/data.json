@@ -1,0 +1,93 @@
+{
+    "name": "La Liga 2",
+    "teams": [
+        {
+            "name": "Albacete Balompié SAD",
+            "id": "es_2_1"
+        },
+        {
+            "name": "Unión Deportiva Almería SAD",
+            "id": "es_2_2"
+        },
+        {
+            "name": "Burgos Club de Fútbol SAD",
+            "id": "es_2_3"
+        },
+        {
+            "name": "Cádiz Club de Fútbol SAD",
+            "id": "es_2_4"
+        },
+        {
+            "name": "Fútbol Club Cartagena SAD",
+            "id": "es_2_5"
+        },
+        {
+            "name": "Club Deportivo Castellón SAD",
+            "id": "es_2_6"
+        },
+        {
+            "name": "Córdoba Club de Fútbol",
+            "id": "es_2_7"
+        },
+        {
+            "name": "Real Club Deportivo de La Coruña SAD",
+            "id": "es_2_8"
+        },
+        {
+            "name": "Sociedad Deportiva Eibar SAD",
+            "id": "es_2_9"
+        },
+        {
+            "name": "Elche Club de Fútbol SAD",
+            "id": "es_2_10"
+        },
+        {
+            "name": "Club Deportivo Eldense",
+            "id": "es_2_11"
+        },
+        {
+            "name": "Granada Club de Fútbol",
+            "id": "es_2_12"
+        },
+        {
+            "name": "Sociedad Deportiva Huesca SAD",
+            "id": "es_2_13"
+        },
+        {
+            "name": "Levante Unión Deportiva SAD",
+            "id": "es_2_14"
+        },
+        {
+            "name": "Málaga Club de Fútbol SAD",
+            "id": "es_2_15"
+        },
+        {
+            "name": "Club Deportivo Mirandés",
+            "id": "es_2_16"
+        },
+        {
+            "name": "Real Oviedo SAD",
+            "id": "es_2_17"
+        },
+        {
+            "name": "Racing Club de Ferrol, S.A.",
+            "id": "es_2_18"
+        },
+        {
+            "name": "Real Racing Club de Santander SAD",
+            "id": "es_2_19"
+        },
+        {
+            "name": "Real Sporting de Gijón SAD",
+            "id": "es_2_20"
+        },
+        {
+            "name": "Club Deportivo Tenerife SAD",
+            "id": "es_2_21"
+        },
+        {
+            "name": "Real Zaragoza SAD",
+            "id": "es_2_22"
+        }
+    ]
+}

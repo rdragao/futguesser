@@ -1,0 +1,77 @@
+{
+    "name": "Segunda Federación Group 1",
+    "teams": [
+        {
+            "name": "Real Ávila Club de Fútbol SAD",
+            "id": "es_4_1"
+        },
+        {
+            "name": "Real Avilés Industrial Club de Fútbol",
+            "id": "es_4_2"
+        },
+        {
+            "name": "Bergantiños Fútbol Club",
+            "id": "es_4_3"
+        },
+        {
+            "name": "Sociedade Deportiva Compostela",
+            "id": "es_4_4"
+        },
+        {
+            "name": "Coruxo Fútbol Club",
+            "id": "es_4_5"
+        },
+        {
+            "name": "Real Club Deportivo Fabril",
+            "id": "es_4_6"
+        },
+        {
+            "name": "Unión Montañesa Escobedo",
+            "id": "es_4_7"
+        },
+        {
+            "name": "Real Sociedad Gimnástica de Torrelavega",
+            "id": "es_4_8"
+        },
+        {
+            "name": "Club Deportivo Guijuelo",
+            "id": "es_4_9"
+        },
+        {
+            "name": "Unión Popular de Langreo",
+            "id": "es_4_10"
+        },
+        {
+            "name": "Club Deportivo Laredo",
+            "id": "es_4_11"
+        },
+        {
+            "name": "Unión Deportiva Llanera",
+            "id": "es_4_12"
+        },
+        {
+            "name": "Club Marino de Luanco",
+            "id": "es_4_13"
+        },
+        {
+            "name": "Club Deportivo Numancia de Soria SAD",
+            "id": "es_4_14"
+        },
+        {
+            "name": "Pontevedra Club de Fútbol SAD",
+            "id": "es_4_15"
+        },
+        {
+            "name": "Rayo Cantabria",
+            "id": "es_4_16"
+        },
+        {
+            "name": "Salamanca Club de Fútbol UDS",
+            "id": "es_4_17"
+        },
+        {
+            "name": "Real ValladolidClub de Fútbol Promesas SAD",
+            "id": "es_4_18"
+        }
+    ]
+}

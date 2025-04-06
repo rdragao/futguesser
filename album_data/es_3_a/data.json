@@ -1,0 +1,85 @@
+{
+    "name": "Primera Federación North",
+    "teams": [
+        {
+            "name": "Sociedad Deportiva Amorebieta",
+            "id": "es_3_1"
+        },
+        {
+            "name": "Futbol Club Andorra",
+            "id": "es_3_2"
+        },
+        {
+            "name": "Club Deportivo Arenteiro",
+            "id": "es_3_3"
+        },
+        {
+            "name": "Barakaldo Club de Fútbol",
+            "id": "es_3_4"
+        },
+        {
+            "name": "Futbol Club Barcelona Atlètic",
+            "id": "es_3_5"
+        },
+        {
+            "name": "Bilbao Athletic",
+            "id": "es_3_6"
+        },
+        {
+            "name": "Not found",
+            "id": "es_3_7"
+        },
+        {
+            "name": "Cultural y Deportiva Leonesa",
+            "id": "es_3_8"
+        },
+        {
+            "name": "Club Gimnàstic de Tarragona SAD",
+            "id": "es_3_9"
+        },
+        {
+            "name": "Gimnástica SegovianaClub de Fútbol",
+            "id": "es_3_10"
+        },
+        {
+            "name": "Club Deportivo Lugo SAD",
+            "id": "es_3_11"
+        },
+        {
+            "name": "Club Atlético Osasuna B",
+            "id": "es_3_12"
+        },
+        {
+            "name": "Ourense Club de Fútbol",
+            "id": "es_3_13"
+        },
+        {
+            "name": "Sociedad Deportiva Ponferradina SAD",
+            "id": "es_3_14"
+        },
+        {
+            "name": "Real Sociedad de Fútbol SAD B",
+            "id": "es_3_15"
+        },
+        {
+            "name": "Real Unión Club SAD",
+            "id": "es_3_16"
+        },
+        {
+            "name": "Sestao River Club",
+            "id": "es_3_17"
+        },
+        {
+            "name": "Sociedad Deportiva Tarazona",
+            "id": "es_3_18"
+        },
+        {
+            "name": "Unionistas de Salamanca Club de Fútbol",
+            "id": "es_3_19"
+        },
+        {
+            "name": "Zamora Club de Fútbol",
+            "id": "es_3_20"
+        }
+    ]
+}

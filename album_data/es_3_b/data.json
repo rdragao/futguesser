@@ -1,0 +1,85 @@
+{
+    "name": "Primera Federación South",
+    "teams": [
+        {
+            "name": "Agrupación Deportiva Alcorcón SAD",
+            "id": "es_3_21"
+        },
+        {
+            "name": "Club Deportivo Alcoyano",
+            "id": "es_3_22"
+        },
+        {
+            "name": "Algeciras Club de Fútbol",
+            "id": "es_3_23"
+        },
+        {
+            "name": "Antequera Club de Fútbol",
+            "id": "es_3_24"
+        },
+        {
+            "name": "Club Atlético de Madrid SAD B",
+            "id": "es_3_25"
+        },
+        {
+            "name": "Atlético SanluqueñoClub de Fútbol",
+            "id": "es_3_26"
+        },
+        {
+            "name": "Betis Deportivo",
+            "id": "es_3_27"
+        },
+        {
+            "name": "Agrupación Deportiva Ceuta Fútbol Club",
+            "id": "es_3_28"
+        },
+        {
+            "name": "Club de Fútbol Fuenlabrada SAD",
+            "id": "es_3_29"
+        },
+        {
+            "name": "Hércules de Alicante Club de Fútbol SAD",
+            "id": "es_3_30"
+        },
+        {
+            "name": "Unión Deportiva Ibiza",
+            "id": "es_3_31"
+        },
+        {
+            "name": "Club de Fútbol Intercity",
+            "id": "es_3_32"
+        },
+        {
+            "name": "Marbella",
+            "id": "es_3_33"
+        },
+        {
+            "name": "Asociación Deportiva Mérida SAD",
+            "id": "es_3_34"
+        },
+        {
+            "name": "Real Murcia Club de Fútbol SAD",
+            "id": "es_3_35"
+        },
+        {
+            "name": "Real Madrid Castilla Club de Fútbol",
+            "id": "es_3_36"
+        },
+        {
+            "name": "Real Club Recreativo de Huelva SAD",
+            "id": "es_3_37"
+        },
+        {
+            "name": "Sevilla Atlético Club",
+            "id": "es_3_38"
+        },
+        {
+            "name": "Villarreal Club de Fútbol SAD B",
+            "id": "es_3_39"
+        },
+        {
+            "name": "Yeclano Deportivo",
+            "id": "es_3_40"
+        }
+    ]
+}
