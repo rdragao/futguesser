@@ -1,0 +1,69 @@
+{
+    "name": "Cymru South",
+    "teams": [
+        {
+            "name": "Afan Lido Football Club",
+            "id": "welsh_2_b_17"
+        },
+        {
+            "name": "Ammanford Association Football Club",
+            "id": "welsh_2_b_18"
+        },
+        {
+            "name": "Baglan Dragons Association Football Club",
+            "id": "welsh_2_b_19"
+        },
+        {
+            "name": "Cambrian United F.C.",
+            "id": "welsh_2_b_20"
+        },
+        {
+            "name": "Caerau Ely Association Football Club",
+            "id": "welsh_2_b_21"
+        },
+        {
+            "name": "Carmarthen Town Association Football Club",
+            "id": "welsh_2_b_22"
+        },
+        {
+            "name": "Cwmbran Celtic Football Club",
+            "id": "welsh_2_b_23"
+        },
+        {
+            "name": "Goytre United Football Club",
+            "id": "welsh_2_b_24"
+        },
+        {
+            "name": "Llanelli Town Association Football Club",
+            "id": "welsh_2_b_25"
+        },
+        {
+            "name": "Llantwit Major AFC",
+            "id": "welsh_2_b_26"
+        },
+        {
+            "name": "Newport City Football Club",
+            "id": "welsh_2_b_27"
+        },
+        {
+            "name": "Penrhiwceiber Rangers Football Club",
+            "id": "welsh_2_b_28"
+        },
+        {
+            "name": "Pontypridd United Football Club",
+            "id": "welsh_2_b_29"
+        },
+        {
+            "name": "Taff's Well Association Football Club",
+            "id": "welsh_2_b_30"
+        },
+        {
+            "name": "Trefelin Boys & Girls Club",
+            "id": "welsh_2_b_31"
+        },
+        {
+            "name": "Trethomas Bluebirds A.F.C.",
+            "id": "welsh_2_b_32"
+        }
+    ]
+}
