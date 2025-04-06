@@ -1,0 +1,77 @@
+{
+    "name": "Bundesliga",
+    "teams": [
+        {
+            "name": "Fußball-Club Augsburg 1907 e.V.",
+            "id": "de_1_1"
+        },
+        {
+            "name": "1. Fußballclub Union Berlin e.V.",
+            "id": "de_1_2"
+        },
+        {
+            "name": "Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft e.V.",
+            "id": "de_1_3"
+        },
+        {
+            "name": "Sportverein Werder Bremenvon 1899 e.V.",
+            "id": "de_1_4"
+        },
+        {
+            "name": "Ballspielverein Borussia 09 e.V.nd",
+            "id": "de_1_5"
+        },
+        {
+            "name": "Eintracht Frankfurt e.V.",
+            "id": "de_1_6"
+        },
+        {
+            "name": "Sport-Club Freiburg e.V.",
+            "id": "de_1_7"
+        },
+        {
+            "name": "1. FußballclubHeidenheim 1846 e.V.",
+            "id": "de_1_8"
+        },
+        {
+            "name": "Turn- und Sportgemeinschaft1899 Hoffenheim e.V.",
+            "id": "de_1_9"
+        },
+        {
+            "name": "Kieler SportvereinigungHolstein von 1900 e.V.",
+            "id": "de_1_10"
+        },
+        {
+            "name": "RasenBallsport Leipzig e.V.",
+            "id": "de_1_11"
+        },
+        {
+            "name": "Bayer 04 Leverkusen Fußball GmbH",
+            "id": "de_1_12"
+        },
+        {
+            "name": "1. Fußball- und Sport-Verein Mainz 05 e.V.",
+            "id": "de_1_13"
+        },
+        {
+            "name": "Borussia Verein für Leibesübungen 1900 e.V. Mönchengladbach",
+            "id": "de_1_14"
+        },
+        {
+            "name": "Fußball-Club Bayern München e.V.",
+            "id": "de_1_15"
+        },
+        {
+            "name": "Fußball-Club St. Pauli von 1910 e.V.",
+            "id": "de_1_16"
+        },
+        {
+            "name": "Verein für Bewegungsspiele Stuttgart 1893 e.V.",
+            "id": "de_1_17"
+        },
+        {
+            "name": "Verein für Leibesübungen Wolfsburg e.V.",
+            "id": "de_1_18"
+        }
+    ]
+}

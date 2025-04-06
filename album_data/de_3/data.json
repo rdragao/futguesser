@@ -1,0 +1,85 @@
+{
+    "name": "3. Liga",
+    "teams": [
+        {
+            "name": "Aachener Turn- und SportvereinAlemannia 1900 e.V.",
+            "id": "de_3_1"
+        },
+        {
+            "name": "Fußball Club Erzgebirge Aue e.V.",
+            "id": "de_3_2"
+        },
+        {
+            "name": "Deutscher Sport-Club Arminia Bielefeld",
+            "id": "de_3_3"
+        },
+        {
+            "name": "Fußballclub Energie Cottbus e.V.",
+            "id": "de_3_4"
+        },
+        {
+            "name": "Ballspielverein Borussia 09 e.V. Dortmund",
+            "id": "de_3_5"
+        },
+        {
+            "name": "Sportgemeinschaft Dynamo Dresden e.V.",
+            "id": "de_3_6"
+        },
+        {
+            "name": "Rot-Weiss Essen e.V.",
+            "id": "de_3_7"
+        },
+        {
+            "name": "Hannoverscher Sport-Verein von 1896 II",
+            "id": "de_3_8"
+        },
+        {
+            "name": "Fußballclub Ingolstadt 04 e.V.",
+            "id": "de_3_9"
+        },
+        {
+            "name": "Fußballclub Viktoria Köln 1904 e.V.",
+            "id": "de_3_10"
+        },
+        {
+            "name": "Sportverein Waldhof Mannheim 07 e.V.",
+            "id": "de_3_11"
+        },
+        {
+            "name": "Turn- und Sportverein  von 1860",
+            "id": "de_3_12"
+        },
+        {
+            "name": "Verein für Leibesübungenvon 1899 e.V. Osnabrück",
+            "id": "de_3_13"
+        },
+        {
+            "name": "Fußballclub Hansa Rostock e.V.",
+            "id": "de_3_14"
+        },
+        {
+            "name": "1. Fußball-Club Saarbrücken e.V.",
+            "id": "de_3_15"
+        },
+        {
+            "name": "Sportverein Sandhausen 1916 e.V.",
+            "id": "de_3_16"
+        },
+        {
+            "name": "Verein für Bewegungsspiele Stuttgart II 1893 e.V.",
+            "id": "de_3_17"
+        },
+        {
+            "name": "Spielvereinigung Unterhaching e.V.",
+            "id": "de_3_18"
+        },
+        {
+            "name": "Sportclub Verl von 1924 e.V.",
+            "id": "de_3_19"
+        },
+        {
+            "name": "Sportverein Wehen 1926 – Taunusstein e.V.",
+            "id": "de_3_20"
+        }
+    ]
+}

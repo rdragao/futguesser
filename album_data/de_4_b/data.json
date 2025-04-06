@@ -1,0 +1,77 @@
+{
+    "name": "Regionalliga Nordost",
+    "teams": [
+        {
+            "name": "1. Fußballclub Lokomotive Leipzig e.V.",
+            "id": "de_4_19"
+        },
+        {
+            "name": "Hallescher Fußball-Club e.V.",
+            "id": "de_4_20"
+        },
+        {
+            "name": "Fußballclub Rot-Weiß Erfurt e.V.",
+            "id": "de_4_21"
+        },
+        {
+            "name": "Fußball-Sport-Verein Zwickau e.V.",
+            "id": "de_4_22"
+        },
+        {
+            "name": "Fußballclub Carl Zeiss Jena e.V.",
+            "id": "de_4_23"
+        },
+        {
+            "name": "Hertha Berliner Sport-Club von 1892 e.V. II",
+            "id": "de_4_24"
+        },
+        {
+            "name": "Berliner Fussball Club Dynamo e.V.",
+            "id": "de_4_25"
+        },
+        {
+            "name": "Greifswalder FC e.V.",
+            "id": "de_4_26"
+        },
+        {
+            "name": "Volkssport Gemeinschaft Altglienicke Berlin e.V.",
+            "id": "de_4_27"
+        },
+        {
+            "name": "Sportverein Babelsberg 03 e.V.",
+            "id": "de_4_28"
+        },
+        {
+            "name": "Chemnitzer Fußballclub e.V.",
+            "id": "de_4_29"
+        },
+        {
+            "name": "Zipsendorfer Fußballclub Meuselwitz e.V.",
+            "id": "de_4_30"
+        },
+        {
+            "name": "Fußball-Club Viktoria 1889 Berlin Lichterfelde-Tempelhof e.V.",
+            "id": "de_4_31"
+        },
+        {
+            "name": "Betriebssportgemeinschaft Chemie Leipzig e.V.",
+            "id": "de_4_32"
+        },
+        {
+            "name": "FC Hertha 03 Berlin-Zehlendorf e.V.",
+            "id": "de_4_33"
+        },
+        {
+            "name": "FSV 63 Luckenwalde e.V.",
+            "id": "de_4_34"
+        },
+        {
+            "name": "Vogtländischer Fußballclub Plauen e.V.",
+            "id": "de_4_35"
+        },
+        {
+            "name": "Fußball Club Eilenburg e.V.",
+            "id": "de_4_36"
+        }
+    ]
+}

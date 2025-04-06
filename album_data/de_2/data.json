@@ -1,0 +1,77 @@
+{
+    "name": "2. Bundesliga",
+    "teams": [
+        {
+            "name": "Braunschweiger Turn- undSportverein Eintracht von 1895 e.V.",
+            "id": "de_2_1"
+        },
+        {
+            "name": "Hertha, Berliner Sport-Club e.V.",
+            "id": "de_2_2"
+        },
+        {
+            "name": "Sportverein Darmstadt 1898 e.V.",
+            "id": "de_2_3"
+        },
+        {
+            "name": "Düsseldorfer Turn- und SportvereinFortuna 1895 e.V.",
+            "id": "de_2_4"
+        },
+        {
+            "name": "Sportvereinigung 07 Elversberg e.V.",
+            "id": "de_2_5"
+        },
+        {
+            "name": "Spielvereinigung Greuther Fürth e.V.",
+            "id": "de_2_6"
+        },
+        {
+            "name": "Hamburger Sport-Verein e.V.",
+            "id": "de_2_7"
+        },
+        {
+            "name": "Hannoverscher Sportverein von 1896 e.V.",
+            "id": "de_2_8"
+        },
+        {
+            "name": "1. Fußball-Club Kaiserslautern e.V.",
+            "id": "de_2_9"
+        },
+        {
+            "name": "Karlsruher Sport-ClubMühlburg-Phönix e.V.",
+            "id": "de_2_10"
+        },
+        {
+            "name": "1. Fußball-Club Köln 01-07 e.V.",
+            "id": "de_2_11"
+        },
+        {
+            "name": "1. Fußballclub Magdeburg e.V.",
+            "id": "de_2_12"
+        },
+        {
+            "name": "Sportclub Preußen 1906 e.V. Münster",
+            "id": "de_2_13"
+        },
+        {
+            "name": "1. Fußball-Club Nürnberg Verein für Leibesübungen e.V.",
+            "id": "de_2_14"
+        },
+        {
+            "name": "Sport-Club Paderborn 07 e.V.",
+            "id": "de_2_15"
+        },
+        {
+            "name": "Sport- und SchwimmvereinJahn Regensburg e.V.",
+            "id": "de_2_16"
+        },
+        {
+            "name": "Fußballclub Gelsenkirchen-Schalke 04 e.V.",
+            "id": "de_2_17"
+        },
+        {
+            "name": "SSV Ulm 1846 FUSSBALL e.V.",
+            "id": "de_2_18"
+        }
+    ]
+}

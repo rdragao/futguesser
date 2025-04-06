@@ -1,0 +1,77 @@
+{
+    "name": "Regionalliga Nord",
+    "teams": [
+        {
+            "name": "Turn- und Sportverein Havelse 1912 e.V.",
+            "id": "de_4_1"
+        },
+        {
+            "name": "Spielervereinigung Drochtersen-Assel e.V.",
+            "id": "de_4_2"
+        },
+        {
+            "name": "Barenburger Sportverein Kickers Emden e.V.",
+            "id": "de_4_3"
+        },
+        {
+            "name": "Sportverein Meppen 1912 e.V.",
+            "id": "de_4_4"
+        },
+        {
+            "name": "Hamburger Sport-Verein e.V.",
+            "id": "de_4_5"
+        },
+        {
+            "name": "Sportverein Werder Bremen von 1899 e.V.II",
+            "id": "de_4_6"
+        },
+        {
+            "name": "Turn- und Sportverein Blau-Weiß Lohne von 1894 e. V.",
+            "id": "de_4_7"
+        },
+        {
+            "name": "Sportclub Weiche Flensburg von 1908 e.V.",
+            "id": "de_4_8"
+        },
+        {
+            "name": "1. Fußball-Club Phönix Lübeck von 1903",
+            "id": "de_4_9"
+        },
+        {
+            "name": "Verein für Bewegungsspiele Lübeckvon 1919 e.V.",
+            "id": "de_4_10"
+        },
+        {
+            "name": "Spiel- und Sportverein Jeddeloh II e.V.",
+            "id": "de_4_11"
+        },
+        {
+            "name": "Fußball-Club St. Pauli von 1910 e.V.",
+            "id": "de_4_12"
+        },
+        {
+            "name": "FC Teutonia Ottensen von 1905 e.V.",
+            "id": "de_4_13"
+        },
+        {
+            "name": "Verein für Bewegungsspiele e.V. Oldenburg",
+            "id": "de_4_14"
+        },
+        {
+            "name": "Sportverein Todesfelde von 1928 e.V. ",
+            "id": "de_4_15"
+        },
+        {
+            "name": "FC Eintracht Norderstedt von 2003 e.V.",
+            "id": "de_4_16"
+        },
+        {
+            "name": "Bremer Sportverein 1906 e.V.",
+            "id": "de_4_17"
+        },
+        {
+            "name": "Kieler SportvereinigungHolstein von 1900 e.V.",
+            "id": "de_4_18"
+        }
+    ]
+}
