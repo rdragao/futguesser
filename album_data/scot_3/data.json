@@ -1,0 +1,45 @@
+{
+    "name": "Scottish League One",
+    "teams": [
+        {
+            "name": "Alloa Athletic Football Club",
+            "id": "scot_3_1"
+        },
+        {
+            "name": "Annan Athletic Football Club",
+            "id": "scot_3_2"
+        },
+        {
+            "name": "Arbroath Football Club",
+            "id": "scot_3_3"
+        },
+        {
+            "name": "Cove Rangers Football Club",
+            "id": "scot_3_4"
+        },
+        {
+            "name": "Dumbarton Football Club",
+            "id": "scot_3_5"
+        },
+        {
+            "name": "Inverness Caledonian Thistle Football Club",
+            "id": "scot_3_6"
+        },
+        {
+            "name": "Kelty Hearts Football Club",
+            "id": "scot_3_7"
+        },
+        {
+            "name": "Montrose Football Club",
+            "id": "scot_3_8"
+        },
+        {
+            "name": "Queen of the South Football Club",
+            "id": "scot_3_9"
+        },
+        {
+            "name": "Stenhousemuir Football Club",
+            "id": "scot_3_10"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Uruguayan Primera División",
+    "teams": [
+        {
+            "name": "Club Atlético Boston River",
+            "id": "uy_1_1"
+        },
+        {
+            "name": "Club Atlético Cerro",
+            "id": "uy_1_2"
+        },
+        {
+            "name": "Cerro Largo Fútbol Club",
+            "id": "uy_1_3"
+        },
+        {
+            "name": "Danubio Fútbol Club",
+            "id": "uy_1_4"
+        },
+        {
+            "name": "Defensor Sporting Club",
+            "id": "uy_1_5"
+        },
+        {
+            "name": "Club Deportivo Maldonado",
+            "id": "uy_1_6"
+        },
+        {
+            "name": "Centro Atlético Fénix",
+            "id": "uy_1_7"
+        },
+        {
+            "name": "Liverpool Fútbol Club",
+            "id": "uy_1_8"
+        },
+        {
+            "name": "Club Sportivo Miramar Misiones",
+            "id": "uy_1_9"
+        },
+        {
+            "name": "Montevideo Wanderers Fútbol Club",
+            "id": "uy_1_10"
+        },
+        {
+            "name": "Club Nacional de Football",
+            "id": "uy_1_11"
+        },
+        {
+            "name": "Club Atlético Peñarol",
+            "id": "uy_1_12"
+        },
+        {
+            "name": "Club Atlético Progreso",
+            "id": "uy_1_13"
+        },
+        {
+            "name": "Racing Club de Montevideo",
+            "id": "uy_1_14"
+        },
+        {
+            "name": "Rampla Juniors Fútbol Club",
+            "id": "uy_1_15"
+        },
+        {
+            "name": "Club Atlético River Plate",
+            "id": "uy_1_16"
+        }
+    ]
+}

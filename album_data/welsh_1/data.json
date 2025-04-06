@@ -1,0 +1,53 @@
+{
+    "name": "Cymru Premier",
+    "teams": [
+        {
+            "name": "Aberystwyth Town Football Club",
+            "id": "welsh_1_1"
+        },
+        {
+            "name": "Bala Town Football Club ",
+            "id": "welsh_1_2"
+        },
+        {
+            "name": "Barry Town United Football Club",
+            "id": "welsh_1_3"
+        },
+        {
+            "name": "Briton Ferry Llansawel A.F.C",
+            "id": "welsh_1_4"
+        },
+        {
+            "name": "Caernarfon Town Football Club",
+            "id": "welsh_1_5"
+        },
+        {
+            "name": "Cardiff Metropolitan University Football Club",
+            "id": "welsh_1_6"
+        },
+        {
+            "name": "Connah's Quay Nomads Football Club",
+            "id": "welsh_1_7"
+        },
+        {
+            "name": "Flint Town United Football Club",
+            "id": "welsh_1_8"
+        },
+        {
+            "name": "Haverfordwest County Association Football Club",
+            "id": "welsh_1_9"
+        },
+        {
+            "name": "Newtown Association Football Club",
+            "id": "welsh_1_10"
+        },
+        {
+            "name": "Penybont Football Club",
+            "id": "welsh_1_11"
+        },
+        {
+            "name": "The New Saints of Oswestry Town & Llansantffraid Football Club",
+            "id": "welsh_1_12"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Scottish League Two",
+    "teams": [
+        {
+            "name": "Bonnyrigg Rose Football Club",
+            "id": "scot_4_1"
+        },
+        {
+            "name": "Clyde Football Club",
+            "id": "scot_4_2"
+        },
+        {
+            "name": "East Fife Football Club",
+            "id": "scot_4_3"
+        },
+        {
+            "name": "Edinburgh City Football Club",
+            "id": "scot_4_4"
+        },
+        {
+            "name": "Elgin City Football Club",
+            "id": "scot_4_5"
+        },
+        {
+            "name": "Forfar Athletic Football Club",
+            "id": "scot_4_6"
+        },
+        {
+            "name": "Peterhead Football Club",
+            "id": "scot_4_7"
+        },
+        {
+            "name": "Stirling Albion Football Club",
+            "id": "scot_4_8"
+        },
+        {
+            "name": "Stranraer Football Club",
+            "id": "scot_4_9"
+        },
+        {
+            "name": "The Spartans Football Club",
+            "id": "scot_4_10"
+        }
+    ]
+}

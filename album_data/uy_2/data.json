@@ -1,0 +1,61 @@
+{
+    "name": "Uruguayan Segunda División",
+    "teams": [
+        {
+            "name": "Albion Football Club",
+            "id": "uy_2_1"
+        },
+        {
+            "name": "Club Atlético Atenas",
+            "id": "uy_2_2"
+        },
+        {
+            "name": "Club Sportivo Cerrito",
+            "id": "uy_2_3"
+        },
+        {
+            "name": "Colón Fútbol Club",
+            "id": "uy_2_4"
+        },
+        {
+            "name": "Club Social y Deportivo Cooper",
+            "id": "uy_2_5"
+        },
+        {
+            "name": "Club Atlético Juventud",
+            "id": "uy_2_6"
+        },
+        {
+            "name": "La Luz Fútbol Club",
+            "id": "uy_2_7"
+        },
+        {
+            "name": "Montevideo City Torque",
+            "id": "uy_2_8"
+        },
+        {
+            "name": "Club Oriental de Football",
+            "id": "uy_2_9"
+        },
+        {
+            "name": "Club Plaza Colonia de Deportes",
+            "id": "uy_2_10"
+        },
+        {
+            "name": "Club Atlético Rentistas",
+            "id": "uy_2_11"
+        },
+        {
+            "name": "Institución Atlética Sud América",
+            "id": "uy_2_12"
+        },
+        {
+            "name": "Tacuarembó Fútbol Club",
+            "id": "uy_2_13"
+        },
+        {
+            "name": "Uruguay Montevideo Football Club",
+            "id": "uy_2_14"
+        }
+    ]
+}

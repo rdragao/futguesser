@@ -1,0 +1,69 @@
+{
+    "name": "Cymru North",
+    "teams": [
+        {
+            "name": "Airbus UK Broughton Football Club",
+            "id": "welsh_2_a_1"
+        },
+        {
+            "name": "Bangor City 1876 Football Club",
+            "id": "welsh_2_a_2"
+        },
+        {
+            "name": "Buckley Town Football Club",
+            "id": "welsh_2_a_3"
+        },
+        {
+            "name": "Caersws Football Club",
+            "id": "welsh_2_a_4"
+        },
+        {
+            "name": "Colwyn Bay Football Club",
+            "id": "welsh_2_a_5"
+        },
+        {
+            "name": "Denbigh Town Football Club",
+            "id": "welsh_2_a_6"
+        },
+        {
+            "name": "Flint Mountain Football Club",
+            "id": "welsh_2_a_7"
+        },
+        {
+            "name": "Gresford Athletic Football Club",
+            "id": "welsh_2_a_8"
+        },
+        {
+            "name": "Guilsfield Football Club",
+            "id": "welsh_2_a_9"
+        },
+        {
+            "name": "Holywell Town Football Club",
+            "id": "welsh_2_a_10"
+        },
+        {
+            "name": "Llandudno Football Club",
+            "id": "welsh_2_a_11"
+        },
+        {
+            "name": "Llay Welfare Football Club",
+            "id": "welsh_2_a_12"
+        },
+        {
+            "name": "Mold Alexandra Football Club",
+            "id": "welsh_2_a_13"
+        },
+        {
+            "name": "Penrhyncoch Football Club",
+            "id": "welsh_2_a_14"
+        },
+        {
+            "name": "Prestatyn Town Football Club",
+            "id": "welsh_2_a_15"
+        },
+        {
+            "name": "Ruthin Town Football Club",
+            "id": "welsh_2_a_16"
+        }
+    ]
+}

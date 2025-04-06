@@ -1,0 +1,45 @@
+{
+    "name": "Scottish Championship",
+    "teams": [
+        {
+            "name": "Airdrieonians Football Club",
+            "id": "scot_2_1"
+        },
+        {
+            "name": "Ayr United Football Club",
+            "id": "scot_2_2"
+        },
+        {
+            "name": "Dunfermline Athletic Football Club",
+            "id": "scot_2_3"
+        },
+        {
+            "name": "Falkirk Football Club",
+            "id": "scot_2_4"
+        },
+        {
+            "name": "Greenock Morton Football Club",
+            "id": "scot_2_5"
+        },
+        {
+            "name": "Hamilton Academical Football Club",
+            "id": "scot_2_6"
+        },
+        {
+            "name": "Livingston Football Club",
+            "id": "scot_2_7"
+        },
+        {
+            "name": "Partick Thistle Football Club",
+            "id": "scot_2_8"
+        },
+        {
+            "name": "Queen's Park Football Club",
+            "id": "scot_2_9"
+        },
+        {
+            "name": "Raith Rovers Football Club",
+            "id": "scot_2_10"
+        }
+    ]
+}
