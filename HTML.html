@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Claw Machine Game</title>
+  <!-- Google Font Import -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+  <!-- Styles <link rel="stylesheet" href="style.css">-->
+  <link rel="stylesheet" href="styles/theme.css">
+  <link rel="stylesheet" href="styles/ball.css">
+  <link rel="stylesheet" href="styles/base.css">
+  <link rel="stylesheet" href="styles/layout.css">  
+  <link rel="stylesheet" href="styles/prize.css">
+  <link rel="stylesheet" href="styles/components/animations.css">
+  <link rel="stylesheet" href="styles/components/album.css">
+  <link rel="stylesheet" href="styles/components/claw.css">
+  <link rel="stylesheet" href="styles/components/buttons.css">
+  <link rel="stylesheet" href="styles/components/select.css">
+  
+</head>
+<body>
+  <div class="game-layout">
+    <!-- Left sidebar for buttons -->
+    <div class="league-buttons-container">
+      <div class="league-controls">
+        <h2>League Selection</h2>
+        <div class="search-filter">
+          <input type="text" id="leagueSearch" placeholder="Search leagues..." aria-label="Search leagues">
+        </div>
+        <div class="album-selector" aria-label="League Selection">
+          <!-- Content will be populated by JavaScript -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Game content -->
+    <div class="game-content">
+      <h1 style="
+        font-family: 'Poppins', sans-serif;
+        color: #2c3e50; /* Sophisticated dark blue-gray */
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        text-align: center;
+        line-height: 1.5;
+        margin: 20px 0;
+        animation: bounce 5.5s infinite;
+        user-select: none; /* Prevents text selection */
+      ">
+        <span style="
+          display: inline-block;
+          transform: rotate(-10deg);
+          font-size: 1.5em;
+          transition: transform 0.2s ease;
+          color: #3498db; /* Cool blue for the football emoji */
+        " 
+          onmouseover="this.style.transform='rotate(-20deg) scale(1.2)';" 
+          onmouseout="this.style.transform='rotate(-10deg)';">
+          ⚽
+        </span> 
+        Grab Your Football Stickers! 
+        <span style="
+          display: inline-block;
+          transform: rotate(10deg);
+          font-size: 1.5em;
+          transition: transform 0.2s ease;
+          color: #1abc9c; /* Soft teal for the joystick emoji */
+        " 
+          onmouseover="this.style.transform='rotate(20deg) scale(1.2)';" 
+          onmouseout="this.style.transform='rotate(10deg)';">
+          🕹️
+        </span>
+        <span style="
+          display: block;
+          font-size: 0.9em;
+          color: #95a5a6; /* Muted silver-gray for the subtext */
+          margin-top: 10px;
+          text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+        ">
+          Can you collect them all from the claw machine?
+        </span>
+      </h1>
+    
+    
+      
+      <div class="game-area">
+        <div class="container">
+          <!-- Game backdrop elements -->
+          <div class="machine-top"></div>
+          <div class="machine-glass"></div>
+          <div class="machine-frame"></div>
+          
+          <div class="claw">
+            <div class="claw-rope"></div>
+            <div class="claw-head">
+              <div class="claw-arm left"></div>
+              <div class="claw-arm right"></div>
+              <div class="claw-arm center"></div>
+            </div>
+          </div>
+
+          <div class="power-meter">
+            <div class="power-bar"></div>
+            <div class="power-label">POWER: 100%</div>
+          </div>
+        </div>
+
+        <div class="controls">
+          <p class="instructions">Use ← → arrows or click and hold to move, release or press ↓ to grab!</p>
+          <div class="button-container">
+            <button class="button" id="resetGame">Reset Game</button>
+            <button class="button" id="toggleAlbum">Show Album</button>
+          </div>
+          <div class="prize-display" aria-live="assertive"></div>
+        </div>
+      </div>
+
+      <article class="album hidden">
+        <h2 class="album-title">Football Sticker Album</h2>
+        <div class="sticker-grid" aria-live="polite"></div>
+        <div class="stats-container">
+          <div class="stat progress">Collection Progress</div>
+          <div class="stat duplicates-count">Duplicates</div>
+        </div>
+        <section class="duplicates-container">
+          <h3 class="duplicates-title">Duplicate Stickers</h3>
+          <div class="duplicates-list"></div>
+        </section>
+      </article>
+    </div>
+  </div>
+  <p>&copy; 2025 Football Sticker Album Game</p>
+
+  <script type="module" src="main.js"></script>
+  
+  <script>
+  document.getElementById('toggleAlbum').addEventListener('click', () => {
+    document.querySelector('.album').classList.toggle('hidden');
+  });
+  </script>
+
+</body>
+</html>
