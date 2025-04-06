@@ -1,0 +1,69 @@
+{
+    "name": "Championnat National 2 - Group B",
+    "teams": [
+        {
+            "name": "Union sportive Avranches Mont-Saint-Michel",
+            "id": "fr_4_17"
+        },
+        {
+            "name": "Blois Football 41",
+            "id": "fr_4_18"
+        },
+        {
+            "name": "Football Club des Girondins de Bordeaux",
+            "id": "fr_4_19"
+        },
+        {
+            "name": "Bourges Foot 18",
+            "id": "fr_4_20"
+        },
+        {
+            "name": "Voltigeurs de Châteaubriant",
+            "id": "fr_4_21"
+        },
+        {
+            "name": "Dinan Léhon Football Club",
+            "id": "fr_4_22"
+        },
+        {
+            "name": "L'Union Sportive Granville",
+            "id": "fr_4_23"
+        },
+        {
+            "name": "La Roche-sur-Yon Vendée Football",
+            "id": "fr_4_24"
+        },
+        {
+            "name": "Vendée Les Herbiers Football",
+            "id": "fr_4_25"
+        },
+        {
+            "name": "Vendée Poiré-sur-Vie Football",
+            "id": "fr_4_26"
+        },
+        {
+            "name": "Stade Poitevin Football Club",
+            "id": "fr_4_27"
+        },
+        {
+            "name": "Saint-Colomban Sportive Locminé",
+            "id": "fr_4_28"
+        },
+        {
+            "name": "Union sportive Saint-Malo",
+            "id": "fr_4_29"
+        },
+        {
+            "name": "Saint-Pryvé Saint-Hilaire Football Club",
+            "id": "fr_4_30"
+        },
+        {
+            "name": "Olympique de Saumur Football Club",
+            "id": "fr_4_31"
+        },
+        {
+            "name": "Stade Briochin",
+            "id": "fr_4_32"
+        }
+    ]
+}

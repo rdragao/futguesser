@@ -1,0 +1,77 @@
+{
+    "name": "Ligue 2",
+    "teams": [
+        {
+            "name": "Athletic Club Ajaccien",
+            "id": "fr_2_1"
+        },
+        {
+            "name": "Amiens Sporting Club",
+            "id": "fr_2_2"
+        },
+        {
+            "name": "Football Club d'Annecy",
+            "id": "fr_2_3"
+        },
+        {
+            "name": "Sporting Club Bastiais",
+            "id": "fr_2_4"
+        },
+        {
+            "name": "Stade Malherbe Caen",
+            "id": "fr_2_5"
+        },
+        {
+            "name": "Clermont Foot 63",
+            "id": "fr_2_6"
+        },
+        {
+            "name": "Union Sportive du Littoral de Dunkerque",
+            "id": "fr_2_7"
+        },
+        {
+            "name": "Grenoble Foot 38",
+            "id": "fr_2_8"
+        },
+        {
+            "name": "En Avant Guingamp",
+            "id": "fr_2_9"
+        },
+        {
+            "name": "Stade Lavallois MayenneFootball Club",
+            "id": "fr_2_10"
+        },
+        {
+            "name": "Football Club Lorient Bretagne Sud",
+            "id": "fr_2_11"
+        },
+        {
+            "name": "Football Club de Martigues",
+            "id": "fr_2_12"
+        },
+        {
+            "name": "Football Club de Metz",
+            "id": "fr_2_13"
+        },
+        {
+            "name": "Paris Football Club",
+            "id": "fr_2_14"
+        },
+        {
+            "name": "Pau Football Club",
+            "id": "fr_2_15"
+        },
+        {
+            "name": "Red Star Football Club",
+            "id": "fr_2_16"
+        },
+        {
+            "name": "Rodez Aveyron Football",
+            "id": "fr_2_17"
+        },
+        {
+            "name": "Espérance Sportive TroyesAube Champagne",
+            "id": "fr_2_18"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Championnat National",
+    "teams": [
+        {
+            "name": "Aubagne Football Club",
+            "id": "fr_3_1"
+        },
+        {
+            "name": "Union Sportive de Boulogne-sur-Mer Côte d'Opale",
+            "id": "fr_3_2"
+        },
+        {
+            "name": "Football Bourg-en-Bresse Péronnas 01",
+            "id": "fr_3_3"
+        },
+        {
+            "name": "La Berrichonne de Châteauroux",
+            "id": "fr_3_4"
+        },
+        {
+            "name": "Union Sportive Concarnoise",
+            "id": "fr_3_5"
+        },
+        {
+            "name": "Dijon Football Côte-d'Or",
+            "id": "fr_3_6"
+        },
+        {
+            "name": "Le Mans Football Club",
+            "id": "fr_3_7"
+        },
+        {
+            "name": "Association Sportive Nancy Lorraine",
+            "id": "fr_3_8"
+        },
+        {
+            "name": "Nîmes Olympique",
+            "id": "fr_3_9"
+        },
+        {
+            "name": "Union Sportive Orléans Loiret Football",
+            "id": "fr_3_10"
+        },
+        {
+            "name": "Paris",
+            "id": "fr_3_11"
+        },
+        {
+            "name": "Union sportive de Quevilly Rouen Métropole",
+            "id": "fr_3_12"
+        },
+        {
+            "name": "Football Club de Rouen 1899",
+            "id": "fr_3_13"
+        },
+        {
+            "name": "Football ClubSochaux-Montbéliard",
+            "id": "fr_3_14"
+        },
+        {
+            "name": "Valenciennes Football Club",
+            "id": "fr_3_15"
+        },
+        {
+            "name": "Football Club de Versailles 78",
+            "id": "fr_3_16"
+        },
+        {
+            "name": "Football Club Villefranche Beaujolais",
+            "id": "fr_3_17"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Ligue 1",
+    "teams": [
+        {
+            "name": "Angers Sporting Club de l'Ouest",
+            "id": "fr_1_1"
+        },
+        {
+            "name": "Association de la Jeunesse Auxerroise",
+            "id": "fr_1_2"
+        },
+        {
+            "name": "Stade Brestois 29",
+            "id": "fr_1_3"
+        },
+        {
+            "name": "Havre Athletic Club",
+            "id": "fr_1_4"
+        },
+        {
+            "name": "Le Racing Club de Lens",
+            "id": "fr_1_5"
+        },
+        {
+            "name": "Lille Olympique Sporting Club",
+            "id": "fr_1_6"
+        },
+        {
+            "name": "Olympique Lyonnais",
+            "id": "fr_1_7"
+        },
+        {
+            "name": "Olympique de Marseille",
+            "id": "fr_1_8"
+        },
+        {
+            "name": "Association Sportive de Monaco Football Club",
+            "id": "fr_1_9"
+        },
+        {
+            "name": "Montpellier Hérault Sport Club",
+            "id": "fr_1_10"
+        },
+        {
+            "name": "Football Club de Nantes",
+            "id": "fr_1_11"
+        },
+        {
+            "name": "Olympique Gymnaste Club de Nice",
+            "id": "fr_1_12"
+        },
+        {
+            "name": "Paris Saint-Germain Football Club",
+            "id": "fr_1_13"
+        },
+        {
+            "name": "Stade de Reims",
+            "id": "fr_1_14"
+        },
+        {
+            "name": "Stade Rennais Football Club",
+            "id": "fr_1_15"
+        },
+        {
+            "name": "Racing Club de Strasbourg Alsace",
+            "id": "fr_1_16"
+        },
+        {
+            "name": "Association Sportive de Saint-Étienne Loire",
+            "id": "fr_1_17"
+        },
+        {
+            "name": "Toulouse Football Club",
+            "id": "fr_1_18"
+        }
+    ]
+}
