@@ -2,14 +2,15 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>Claw Machine Game</title>
+  
   <!-- Google Font Import -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 
-  <!-- Styles <link rel="stylesheet" href="style.css">-->
+  <!-- Styles -->
   <link rel="stylesheet" href="styles/theme.css">
   <link rel="stylesheet" href="styles/ball.css">
   <link rel="stylesheet" href="styles/base.css">
@@ -21,10 +22,118 @@
   <link rel="stylesheet" href="styles/components/buttons.css">
   <link rel="stylesheet" href="styles/components/select.css">
   
+  <!-- Responsive inline styles -->
+  <style>
+    /* Responsive layout adjustments */
+    .game-layout {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    
+    .league-buttons-container {
+      order: 2;
+      width: 100%;
+      padding: 15px;
+      background: #f8f9fa;
+    }
+    
+    .game-content {
+      order: 1;
+      width: 100%;
+      padding: 15px;
+    }
+    
+    .game-area {
+      position: relative;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    
+    .container {
+      position: relative;
+      height: 400px;
+      margin-bottom: 20px;
+    }
+    
+    .controls {
+      text-align: center;
+      margin-top: 20px;
+    }
+    
+    .button-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 15px;
+    }
+    
+    .album {
+      margin-top: 30px;
+    }
+    
+    /* Mobile-specific adjustments */
+    @media (min-width: 768px) {
+      .game-layout {
+        flex-direction: row;
+      }
+      
+      .league-buttons-container {
+        order: 1;
+        width: 250px;
+        min-height: 100vh;
+        padding: 20px;
+        border-right: 1px solid #ddd;
+      }
+      
+      .game-content {
+        order: 2;
+        flex: 1;
+        padding: 20px;
+      }
+      
+      .container {
+        height: 500px;
+      }
+    }
+    
+    /* Title adjustments for mobile */
+    h1 {
+      font-size: 1.5rem;
+      margin: 10px 0;
+    }
+    
+    @media (min-width: 576px) {
+      h1 {
+        font-size: 2rem;
+      }
+    }
+    
+    /* Touch-friendly elements */
+    button {
+      min-width: 120px;
+      padding: 12px 20px;
+      font-size: 1rem;
+    }
+    
+    /* Prevent layout shifts */
+    .machine-glass, .machine-frame, .claw {
+      position: absolute;
+    }
+    
+    /* Footer styling */
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #f8f9fa;
+      margin-top: auto;
+    }
+  </style>
 </head>
 <body>
   <div class="game-layout">
-    <!-- Left sidebar for buttons -->
+    <!-- Left sidebar for buttons - now responsive -->
     <div class="league-buttons-container">
       <div class="league-controls">
         <h2>League Selection</h2>
@@ -41,20 +150,20 @@
     <div class="game-content">
       <h1 style="
         font-family: 'Poppins', sans-serif;
-        color: #2c3e50; /* Sophisticated dark blue-gray */
+        color: #2c3e50;
         text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
         text-align: center;
         line-height: 1.5;
         margin: 20px 0;
         animation: bounce 5.5s infinite;
-        user-select: none; /* Prevents text selection */
+        user-select: none;
       ">
         <span style="
           display: inline-block;
           transform: rotate(-10deg);
           font-size: 1.5em;
           transition: transform 0.2s ease;
-          color: #3498db; /* Cool blue for the football emoji */
+          color: #3498db;
         " 
           onmouseover="this.style.transform='rotate(-20deg) scale(1.2)';" 
           onmouseout="this.style.transform='rotate(-10deg)';">
@@ -66,7 +175,7 @@
           transform: rotate(10deg);
           font-size: 1.5em;
           transition: transform 0.2s ease;
-          color: #1abc9c; /* Soft teal for the joystick emoji */
+          color: #1abc9c;
         " 
           onmouseover="this.style.transform='rotate(20deg) scale(1.2)';" 
           onmouseout="this.style.transform='rotate(10deg)';">
@@ -75,7 +184,7 @@
         <span style="
           display: block;
           font-size: 0.9em;
-          color: #95a5a6; /* Muted silver-gray for the subtext */
+          color: #95a5a6;
           margin-top: 10px;
           text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
         ">
@@ -83,8 +192,6 @@
         </span>
       </h1>
     
-    
-      
       <div class="game-area">
         <div class="container">
           <!-- Game backdrop elements -->
@@ -131,7 +238,10 @@
       </article>
     </div>
   </div>
-  <p>&copy; 2025 Football Sticker Album Game</p>
+  
+  <footer>
+    <p>&copy; 2025 Football Sticker Album Game</p>
+  </footer>
 
   <script type="module" src="main.js"></script>
   
