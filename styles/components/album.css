@@ -1,7 +1,6 @@
 /* components/album.css */
+/* components/album.css */
 .album {
-  width: 90%;
-  height: 100vh;
   position: fixed;
   right: 0;
   top: 0;
@@ -12,6 +11,19 @@
   transform: translateX(100%);
   transition: transform 0.3s ease;
   z-index: 1000;
+  height: 100vh;
+}
+
+/* For mobile devices (default) */
+.album {
+  width: 90%;
+}
+
+/* For tablets and larger devices */
+@media (min-width: 768px) {
+  .album {
+    width: 550px; /* Fixed width for PC/tablet */
+  }
 }
 
 .album.visible {
