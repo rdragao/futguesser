@@ -186,6 +186,40 @@ document.addEventListener('mousedown', (e) => {
   document.addEventListener('mouseup', releaseHandler);
 });
 
+let touchInitialX = 0;
+let touchInitialClawPos = 0;
+let isTouching = false;
+
+function handleTouchMove(e) {
+  if (!isTouching) return;
+  e.preventDefault();
+  const deltaX = e.touches[0].clientX - touchInitialX;
+  const newPos = touchInitialClawPos + deltaX;
+  clawPos = Math.min(380, Math.max(20, newPos));
+  claw.style.left = clawPos + 'px';
+}
+
+function handleTouchEnd() {
+  if (isTouching) {
+    isTouching = false;
+    dropClaw();
+    document.removeEventListener('touchmove', handleTouchMove);
+    document.removeEventListener('touchend', handleTouchEnd);
+  }
+}
+
+document.addEventListener('touchstart', (e) => {
+  if (e.target.closest('button') || isPlaying) return;
+  
+  e.preventDefault();
+  isTouching = true;
+  touchInitialX = e.touches[0].clientX;
+  touchInitialClawPos = clawPos;
+  
+  document.addEventListener('touchmove', handleTouchMove, { passive: false });
+  document.addEventListener('touchend', handleTouchEnd);
+}, { passive: false });
+
 resetButton.addEventListener('click', resetGame);
 toggleAlbumButton.addEventListener('click', () => {
   album.classList.toggle('visible');
