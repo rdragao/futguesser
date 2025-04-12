@@ -51,8 +51,75 @@ function moveBalls() {
   if (!isPlaying) requestAnimationFrame(moveBalls);
 }
 
+function isAlbumVisible() {
+  return album.classList.contains('visible');
+}
+
+document.addEventListener('keydown', (e) => {
+  if (isPlaying || isAlbumVisible()) return;
+
+  switch (e.key) {
+    case 'ArrowLeft':
+      clawPos = Math.max(20, clawPos - speed);
+      claw.style.left = clawPos + 'px';
+      break;
+    case 'ArrowRight':
+      clawPos = Math.min(380, clawPos + speed);
+      claw.style.left = clawPos + 'px';
+      break;
+    case 'ArrowDown':
+      dropClaw();
+      break;
+  }
+});
+
+// Mouse control for claw
+document.addEventListener('mousedown', (e) => {
+  if (e.target.closest('button') || isPlaying || isAlbumVisible()) return;
+  
+  isDragging = true;
+  initialMouseX = e.clientX;
+  const initialClawPos = clawPos;
+  
+  const moveHandler = (e) => {
+      if (!isDragging) return;
+      
+      const deltaX = e.clientX - initialMouseX;
+      const newPos = initialClawPos + deltaX;
+      clawPos = Math.min(380, Math.max(20, newPos));
+      
+      claw.style.left = clawPos + 'px';
+  };
+  
+  const releaseHandler = () => {
+      if (isDragging) {
+          isDragging = false;
+          dropClaw();
+          
+          document.removeEventListener('mousemove', moveHandler);
+          document.removeEventListener('mouseup', releaseHandler);
+      }
+  };
+  
+  document.addEventListener('mousemove', moveHandler);
+  document.addEventListener('mouseup', releaseHandler);
+});
+
+document.addEventListener('touchstart', (e) => {
+  if (e.target.closest('button') || isPlaying || isAlbumVisible()) return;
+  
+  e.preventDefault();
+  isTouching = true;
+  touchInitialX = e.touches[0].clientX;
+  touchInitialClawPos = clawPos;
+  
+  document.addEventListener('touchmove', handleTouchMove, { passive: false });
+  document.addEventListener('touchend', handleTouchEnd);
+}, { passive: false });
+
+
 function dropClaw() {
-  if (isPlaying) return;
+  if (isPlaying || isAlbumVisible()) return;
   isPlaying = true;
   resetButton.disabled = true;
 
@@ -132,60 +199,8 @@ function resetGame() {
   isPlaying = false;
 }
 
-document.addEventListener('keydown', (e) => {
-  if (isPlaying) return;
-
-  switch (e.key) {
-    case 'ArrowLeft':
-      clawPos = Math.max(20, clawPos - speed);
-      claw.style.left = clawPos + 'px';
-      break;
-    case 'ArrowRight':
-      clawPos = Math.min(380, clawPos + speed);
-      claw.style.left = clawPos + 'px';
-      break;
-    case 'ArrowDown':
-      dropClaw();
-      break;
-  }
-});
-
 let initialMouseX = 0;
 let isDragging = false;
-
-// Mouse control for claw
-document.addEventListener('mousedown', (e) => {
-  // Check if we clicked on a button or its children
-  if (e.target.closest('button') || isPlaying) return;
-  
-  isDragging = true;
-  initialMouseX = e.clientX;
-  const initialClawPos = clawPos;
-  
-  const moveHandler = (e) => {
-      if (!isDragging) return;
-      
-      const deltaX = e.clientX - initialMouseX;
-      const newPos = initialClawPos + deltaX;
-      clawPos = Math.min(380, Math.max(20, newPos));
-      
-      claw.style.left = clawPos + 'px';
-  };
-  
-  const releaseHandler = () => {
-      if (isDragging) {
-          isDragging = false;
-          dropClaw();
-          
-          document.removeEventListener('mousemove', moveHandler);
-          document.removeEventListener('mouseup', releaseHandler);
-      }
-  };
-  
-  document.addEventListener('mousemove', moveHandler);
-  document.addEventListener('mouseup', releaseHandler);
-});
-
 let touchInitialX = 0;
 let touchInitialClawPos = 0;
 let isTouching = false;
@@ -207,18 +222,6 @@ function handleTouchEnd() {
     document.removeEventListener('touchend', handleTouchEnd);
   }
 }
-
-document.addEventListener('touchstart', (e) => {
-  if (e.target.closest('button') || isPlaying) return;
-  
-  e.preventDefault();
-  isTouching = true;
-  touchInitialX = e.touches[0].clientX;
-  touchInitialClawPos = clawPos;
-  
-  document.addEventListener('touchmove', handleTouchMove, { passive: false });
-  document.addEventListener('touchend', handleTouchEnd);
-}, { passive: false });
 
 resetButton.addEventListener('click', resetGame);
 toggleAlbumButton.addEventListener('click', () => {
